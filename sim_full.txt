@@ -1,0 +1,5235 @@
+
+
+=~=~= Four Knights Puzzle Simulator =~=~=
+
+
+-- Initializing game board...
+B.b
+...
+W.w
+
+-- Game goal state...
+w.W
+...
+b.B
+
+-- Running A* Search for best solution...
+
+Discovered new possible move:
+..b
+..B
+W.w
+Stats:	f(x) = 16	g(x) = 1	h(x) = 15
+	Unseen board hash recorded: 1612550
+
+Discovered new possible move:
+..b
+...
+WBw
+Stats:	f(x) = 16	g(x) = 1	h(x) = 15
+	Unseen board hash recorded: 1687550
+
+Discovered new possible move:
+B..
+b..
+W.w
+Stats:	f(x) = 16	g(x) = 1	h(x) = 15
+	Unseen board hash recorded: 1609626
+
+Discovered new possible move:
+B..
+...
+Wbw
+Stats:	f(x) = 16	g(x) = 1	h(x) = 15
+	Unseen board hash recorded: 1765626
+
+Discovered new possible move:
+BWb
+...
+..w
+Stats:	f(x) = 16	g(x) = 1	h(x) = 15
+	Unseen board hash recorded: 1562566
+
+Discovered new possible move:
+B.b
+..W
+..w
+Stats:	f(x) = 16	g(x) = 1	h(x) = 15
+	Unseen board hash recorded: 1571926
+
+Discovered new possible move:
+Bwb
+...
+W..
+Stats:	f(x) = 16	g(x) = 1	h(x) = 15
+	Unseen board hash recorded: 46946
+
+Discovered new possible move:
+B.b
+w..
+W..
+Stats:	f(x) = 16	g(x) = 1	h(x) = 15
+	Unseen board hash recorded: 47426
+
+ === Selected Route w/ Cost 16 ===
+..b
+..B
+W.w
+
+Discovered new possible move:
+...
+b.B
+W.w
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 1612750
+
+Discovered new possible move:
+...
+..B
+Wbw
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 1768750
+
+Discovered new possible move:
+B.b
+...
+W.w
+Stats:	f(x) = 18	g(x) = 2	h(x) = 16
+	Unseen board hash recorded: 1609426
+
+Discovered new possible move:
+.Wb
+..B
+..w
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 1565690
+
+Discovered new possible move:
+.wb
+..B
+W..
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 50070
+
+Discovered new possible move:
+..b
+w.B
+W..
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 50550
+
+ === Selected Route w/ Cost 16 ===
+B.b
+w..
+W..
+
+Discovered new possible move:
+..b
+w.B
+W..
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 50550
+
+Discovered new possible move:
+..b
+w..
+WB.
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 125550
+
+Discovered new possible move:
+B..
+w..
+Wb.
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 203626
+
+Discovered new possible move:
+B.b
+...
+W.w
+Stats:	f(x) = 18	g(x) = 2	h(x) = 16
+	Unseen board hash recorded: 1609426
+
+Discovered new possible move:
+BWb
+w..
+...
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 566
+
+Discovered new possible move:
+B.b
+w.W
+...
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 9926
+
+ === Selected Route w/ Cost 16 ===
+..b
+w.B
+W..
+
+Discovered new possible move:
+...
+w.B
+Wb.
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 206750
+
+Discovered new possible move:
+.Wb
+w.B
+...
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 3690
+
+ === Selected Route w/ Cost 16 ===
+B.b
+w.W
+...
+
+Discovered new possible move:
+..b
+w.W
+.B.
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 88050
+
+Discovered new possible move:
+B..
+w.W
+.b.
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 166126
+
+Discovered new possible move:
+B.b
+..W
+..w
+Stats:	f(x) = 18	g(x) = 3	h(x) = 15
+	Unseen board hash recorded: 1571926
+
+ === Selected Route w/ Cost 16 ===
+.Wb
+w.B
+...
+
+Discovered new possible move:
+..b
+w.B
+..W
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 1175550
+
+Discovered new possible move:
+.W.
+w.B
+.b.
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 159890
+
+Discovered new possible move:
+.Wb
+..B
+..w
+Stats:	f(x) = 18	g(x) = 4	h(x) = 14
+	Unseen board hash recorded: 1565690
+
+Discovered new possible move:
+BWb
+w..
+...
+Stats:	f(x) = 18	g(x) = 4	h(x) = 14
+	Unseen board hash recorded: 566
+
+Discovered new possible move:
+.Wb
+w..
+B..
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 16190
+
+ === Selected Route w/ Cost 16 ===
+..b
+...
+WBw
+
+Discovered new possible move:
+...
+b..
+WBw
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 1687750
+
+Discovered new possible move:
+.Wb
+...
+.Bw
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 1640690
+
+Discovered new possible move:
+..b
+..W
+.Bw
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 1650050
+
+Discovered new possible move:
+B.b
+...
+W.w
+Stats:	f(x) = 18	g(x) = 2	h(x) = 16
+	Unseen board hash recorded: 1609426
+
+Discovered new possible move:
+.wb
+...
+WB.
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 125070
+
+Discovered new possible move:
+..b
+w..
+WB.
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 125550
+
+ === Selected Route w/ Cost 16 ===
+.Wb
+w..
+B..
+
+Discovered new possible move:
+..b
+w..
+B.W
+Stats:	f(x) = 16	g(x) = 5	h(x) = 11
+	Unseen board hash recorded: 1188050
+
+Discovered new possible move:
+.W.
+w..
+Bb.
+Stats:	f(x) = 16	g(x) = 5	h(x) = 11
+	Unseen board hash recorded: 172390
+
+Discovered new possible move:
+.Wb
+...
+B.w
+Stats:	f(x) = 18	g(x) = 5	h(x) = 13
+	Unseen board hash recorded: 1578190
+
+ === Selected Route w/ Cost 16 ===
+..b
+w..
+WB.
+
+Discovered new possible move:
+.Wb
+w..
+.B.
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 78690
+
+Discovered new possible move:
+..b
+w.W
+.B.
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 88050
+
+ === Selected Route w/ Cost 16 ===
+B..
+...
+Wbw
+
+Discovered new possible move:
+...
+..B
+Wbw
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 1768750
+
+Discovered new possible move:
+BW.
+...
+.bw
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 1718766
+
+Discovered new possible move:
+B..
+..W
+.bw
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 1728126
+
+Discovered new possible move:
+B.b
+...
+W.w
+Stats:	f(x) = 18	g(x) = 2	h(x) = 16
+	Unseen board hash recorded: 1609426
+
+Discovered new possible move:
+Bw.
+...
+Wb.
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 203146
+
+Discovered new possible move:
+B..
+w..
+Wb.
+Stats:	f(x) = 16	g(x) = 2	h(x) = 14
+	Unseen board hash recorded: 203626
+
+ === Selected Route w/ Cost 16 ===
+...
+b.B
+W.w
+
+Discovered new possible move:
+B..
+b..
+W.w
+Stats:	f(x) = 18	g(x) = 3	h(x) = 15
+	Unseen board hash recorded: 1609626
+
+Discovered new possible move:
+.W.
+b.B
+..w
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 1565890
+
+Discovered new possible move:
+.w.
+b.B
+W..
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 50270
+
+ === Selected Route w/ Cost 16 ===
+B..
+w..
+Wb.
+
+Discovered new possible move:
+...
+w.B
+Wb.
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 206750
+
+Discovered new possible move:
+B.w
+...
+Wb.
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 203226
+
+Discovered new possible move:
+BW.
+w..
+.b.
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 156766
+
+Discovered new possible move:
+B..
+w.W
+.b.
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 166126
+
+ === Selected Route w/ Cost 16 ===
+BWb
+w..
+...
+
+Discovered new possible move:
+.Wb
+w..
+.B.
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 78690
+
+Discovered new possible move:
+B.b
+w..
+..W
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 1172426
+
+Discovered new possible move:
+BW.
+w..
+.b.
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 156766
+
+Discovered new possible move:
+BWb
+...
+..w
+Stats:	f(x) = 18	g(x) = 3	h(x) = 15
+	Unseen board hash recorded: 1562566
+
+ === Selected Route w/ Cost 16 ===
+B..
+w.W
+.b.
+
+Discovered new possible move:
+B.w
+..W
+.b.
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 165726
+
+Discovered new possible move:
+B..
+..W
+.bw
+Stats:	f(x) = 18	g(x) = 4	h(x) = 14
+	Unseen board hash recorded: 1728126
+
+ === Selected Route w/ Cost 16 ===
+.Wb
+w..
+.B.
+
+Discovered new possible move:
+..b
+w..
+.BW
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 1250550
+
+Discovered new possible move:
+.Wb
+...
+.Bw
+Stats:	f(x) = 18	g(x) = 4	h(x) = 14
+	Unseen board hash recorded: 1640690
+
+ === Selected Route w/ Cost 16 ===
+..b
+w.W
+.B.
+
+Discovered new possible move:
+..b
+..W
+.Bw
+Stats:	f(x) = 18	g(x) = 4	h(x) = 14
+	Unseen board hash recorded: 1650050
+
+Discovered new possible move:
+W.b
+w..
+.B.
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 78678
+
+ === Selected Route w/ Cost 16 ===
+...
+..B
+Wbw
+
+Discovered new possible move:
+.W.
+..B
+.bw
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 1721890
+
+Discovered new possible move:
+b..
+..B
+W.w
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 1612502
+
+Discovered new possible move:
+.w.
+..B
+Wb.
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 206270
+
+Discovered new possible move:
+...
+w.B
+Wb.
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 206750
+
+ === Selected Route w/ Cost 16 ===
+BW.
+...
+.bw
+
+Discovered new possible move:
+.W.
+..B
+.bw
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 1721890
+
+Discovered new possible move:
+BWb
+...
+..w
+Stats:	f(x) = 18	g(x) = 3	h(x) = 15
+	Unseen board hash recorded: 1562566
+
+Discovered new possible move:
+BW.
+w..
+.b.
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 156766
+
+ === Selected Route w/ Cost 16 ===
+...
+w.B
+Wb.
+
+Discovered new possible move:
+..w
+..B
+Wb.
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 206350
+
+Discovered new possible move:
+.W.
+w.B
+.b.
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 159890
+
+Discovered new possible move:
+b..
+w.B
+W..
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 50502
+
+ === Selected Route w/ Cost 16 ===
+BW.
+w..
+.b.
+
+Discovered new possible move:
+.W.
+w.B
+.b.
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 159890
+
+Discovered new possible move:
+B..
+w..
+.bW
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 1328626
+
+Discovered new possible move:
+BWw
+...
+.b.
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 156366
+
+ === Selected Route w/ Cost 16 ===
+B..
+..W
+.bw
+
+Discovered new possible move:
+B.b
+..W
+..w
+Stats:	f(x) = 18	g(x) = 3	h(x) = 15
+	Unseen board hash recorded: 1571926
+
+Discovered new possible move:
+Bw.
+..W
+.b.
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 165646
+
+ === Selected Route w/ Cost 16 ===
+BWw
+...
+.b.
+
+Discovered new possible move:
+.Ww
+..B
+.b.
+Stats:	f(x) = 16	g(x) = 5	h(x) = 11
+	Unseen board hash recorded: 159490
+
+Discovered new possible move:
+B.w
+...
+Wb.
+Stats:	f(x) = 18	g(x) = 5	h(x) = 13
+	Unseen board hash recorded: 203226
+
+Discovered new possible move:
+B.w
+...
+.bW
+Stats:	f(x) = 16	g(x) = 5	h(x) = 11
+	Unseen board hash recorded: 1328226
+
+ === Selected Route w/ Cost 16 ===
+Bw.
+..W
+.b.
+
+Discovered new possible move:
+B..
+..W
+wb.
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 228126
+
+Discovered new possible move:
+Bw.
+...
+Wb.
+Stats:	f(x) = 18	g(x) = 4	h(x) = 14
+	Unseen board hash recorded: 203146
+
+Discovered new possible move:
+Bwb
+..W
+...
+Stats:	f(x) = 18	g(x) = 4	h(x) = 14
+	Unseen board hash recorded: 9446
+
+ === Selected Route w/ Cost 16 ===
+B.w
+...
+.bW
+
+Discovered new possible move:
+..w
+..B
+.bW
+Stats:	f(x) = 16	g(x) = 6	h(x) = 10
+	Unseen board hash recorded: 1331350
+
+Discovered new possible move:
+B..
+w..
+.bW
+Stats:	f(x) = 18	g(x) = 6	h(x) = 12
+	Unseen board hash recorded: 1328626
+
+Discovered new possible move:
+B.w
+W..
+.b.
+Stats:	f(x) = 16	g(x) = 6	h(x) = 10
+	Unseen board hash recorded: 156726
+
+ === Selected Route w/ Cost 16 ===
+...
+..B
+Wbw
+
+Discovered new possible move:
+.W.
+..B
+.bw
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 1721890
+
+Discovered new possible move:
+b..
+..B
+W.w
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 1612502
+
+Discovered new possible move:
+.w.
+..B
+Wb.
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 206270
+
+ === Selected Route w/ Cost 16 ===
+...
+w.B
+Wb.
+
+Discovered new possible move:
+..w
+..B
+Wb.
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 206350
+
+Discovered new possible move:
+.W.
+w.B
+.b.
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 159890
+
+Discovered new possible move:
+b..
+w.B
+W..
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 50502
+
+ === Selected Route w/ Cost 16 ===
+Bw.
+...
+Wb.
+
+Discovered new possible move:
+.w.
+..B
+Wb.
+Stats:	f(x) = 16	g(x) = 3	h(x) = 13
+	Unseen board hash recorded: 206270
+
+Discovered new possible move:
+Bwb
+...
+W..
+Stats:	f(x) = 18	g(x) = 3	h(x) = 15
+	Unseen board hash recorded: 46946
+
+ === Selected Route w/ Cost 16 ===
+B.w
+W..
+.b.
+
+Discovered new possible move:
+..w
+W.B
+.b.
+Stats:	f(x) = 16	g(x) = 7	h(x) = 9
+	Unseen board hash recorded: 159850
+
+ === Selected Route w/ Cost 16 ===
+.W.
+..B
+.bw
+
+Discovered new possible move:
+.W.
+...
+Bbw
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 1734390
+
+Discovered new possible move:
+bW.
+..B
+..w
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 1565642
+
+Discovered new possible move:
+.Wb
+..B
+..w
+Stats:	f(x) = 18	g(x) = 4	h(x) = 14
+	Unseen board hash recorded: 1565690
+
+Discovered new possible move:
+.W.
+w.B
+.b.
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 159890
+
+ === Selected Route w/ Cost 16 ===
+b..
+..B
+W.w
+
+Discovered new possible move:
+bW.
+..B
+..w
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 1565642
+
+Discovered new possible move:
+bw.
+..B
+W..
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 50022
+
+Discovered new possible move:
+b..
+w.B
+W..
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 50502
+
+ === Selected Route w/ Cost 16 ===
+.w.
+..B
+Wb.
+
+Discovered new possible move:
+bw.
+..B
+W..
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 50022
+
+Discovered new possible move:
+.wb
+..B
+W..
+Stats:	f(x) = 18	g(x) = 4	h(x) = 14
+	Unseen board hash recorded: 50070
+
+ === Selected Route w/ Cost 16 ===
+b..
+w.B
+W..
+
+Discovered new possible move:
+b.w
+..B
+W..
+Stats:	f(x) = 16	g(x) = 5	h(x) = 11
+	Unseen board hash recorded: 50102
+
+Discovered new possible move:
+bW.
+w.B
+...
+Stats:	f(x) = 16	g(x) = 5	h(x) = 11
+	Unseen board hash recorded: 3642
+
+ === Selected Route w/ Cost 16 ===
+..w
+..B
+Wb.
+
+Discovered new possible move:
+B.w
+...
+Wb.
+Stats:	f(x) = 18	g(x) = 5	h(x) = 13
+	Unseen board hash recorded: 203226
+
+Discovered new possible move:
+.Ww
+..B
+.b.
+Stats:	f(x) = 16	g(x) = 5	h(x) = 11
+	Unseen board hash recorded: 159490
+
+Discovered new possible move:
+b.w
+..B
+W..
+Stats:	f(x) = 16	g(x) = 5	h(x) = 11
+	Unseen board hash recorded: 50102
+
+ === Selected Route w/ Cost 16 ===
+bW.
+w.B
+...
+
+Discovered new possible move:
+.W.
+w.B
+.b.
+Stats:	f(x) = 18	g(x) = 6	h(x) = 12
+	Unseen board hash recorded: 159890
+
+Discovered new possible move:
+b..
+w.B
+..W
+Stats:	f(x) = 16	g(x) = 6	h(x) = 10
+	Unseen board hash recorded: 1175502
+
+Discovered new possible move:
+bWw
+..B
+...
+Stats:	f(x) = 16	g(x) = 6	h(x) = 10
+	Unseen board hash recorded: 3242
+
+Discovered new possible move:
+bW.
+..B
+..w
+Stats:	f(x) = 18	g(x) = 6	h(x) = 12
+	Unseen board hash recorded: 1565642
+
+Discovered new possible move:
+bW.
+w..
+B..
+Stats:	f(x) = 16	g(x) = 6	h(x) = 10
+	Unseen board hash recorded: 16142
+
+ === Selected Route w/ Cost 16 ===
+b.w
+..B
+W..
+
+Discovered new possible move:
+b..
+..B
+Ww.
+Stats:	f(x) = 16	g(x) = 6	h(x) = 10
+	Unseen board hash recorded: 362502
+
+Discovered new possible move:
+bWw
+..B
+...
+Stats:	f(x) = 16	g(x) = 6	h(x) = 10
+	Unseen board hash recorded: 3242
+
+ === Selected Route w/ Cost 16 ===
+bW.
+w..
+B..
+
+Discovered new possible move:
+.W.
+w.b
+B..
+Stats:	f(x) = 16	g(x) = 7	h(x) = 9
+	Unseen board hash recorded: 22390
+
+Discovered new possible move:
+.W.
+w..
+Bb.
+Stats:	f(x) = 18	g(x) = 7	h(x) = 11
+	Unseen board hash recorded: 172390
+
+Discovered new possible move:
+b..
+w..
+B.W
+Stats:	f(x) = 16	g(x) = 7	h(x) = 9
+	Unseen board hash recorded: 1188002
+
+Discovered new possible move:
+bWw
+...
+B..
+Stats:	f(x) = 16	g(x) = 7	h(x) = 9
+	Unseen board hash recorded: 15742
+
+Discovered new possible move:
+bW.
+...
+B.w
+Stats:	f(x) = 18	g(x) = 7	h(x) = 11
+	Unseen board hash recorded: 1578142
+
+ === Selected Route w/ Cost 16 ===
+bWw
+..B
+...
+
+Discovered new possible move:
+.Ww
+..B
+.b.
+Stats:	f(x) = 18	g(x) = 7	h(x) = 11
+	Unseen board hash recorded: 159490
+
+Discovered new possible move:
+b.w
+..B
+..W
+Stats:	f(x) = 16	g(x) = 7	h(x) = 9
+	Unseen board hash recorded: 1175102
+
+Discovered new possible move:
+bW.
+..B
+.w.
+Stats:	f(x) = 16	g(x) = 7	h(x) = 9
+	Unseen board hash recorded: 315642
+
+Discovered new possible move:
+bWw
+...
+B..
+Stats:	f(x) = 16	g(x) = 7	h(x) = 9
+	Unseen board hash recorded: 15742
+
+ === Selected Route w/ Cost 16 ===
+.W.
+w.B
+.b.
+
+Discovered new possible move:
+...
+w.B
+.bW
+Stats:	f(x) = 16	g(x) = 5	h(x) = 11
+	Unseen board hash recorded: 1331750
+
+Discovered new possible move:
+.Ww
+..B
+.b.
+Stats:	f(x) = 16	g(x) = 5	h(x) = 11
+	Unseen board hash recorded: 159490
+
+Discovered new possible move:
+.W.
+w..
+Bb.
+Stats:	f(x) = 16	g(x) = 5	h(x) = 11
+	Unseen board hash recorded: 172390
+
+ === Selected Route w/ Cost 16 ===
+bWw
+...
+B..
+
+Discovered new possible move:
+.Ww
+..b
+B..
+Stats:	f(x) = 16	g(x) = 8	h(x) = 8
+	Unseen board hash recorded: 21990
+
+Discovered new possible move:
+.Ww
+...
+Bb.
+Stats:	f(x) = 18	g(x) = 8	h(x) = 10
+	Unseen board hash recorded: 171990
+
+Discovered new possible move:
+b.w
+...
+B.W
+Stats:	f(x) = 16	g(x) = 8	h(x) = 8
+	Unseen board hash recorded: 1187602
+
+Discovered new possible move:
+bW.
+...
+Bw.
+Stats:	f(x) = 16	g(x) = 8	h(x) = 8
+	Unseen board hash recorded: 328142
+
+ === Selected Route w/ Cost 16 ===
+.W.
+w..
+Bb.
+
+Discovered new possible move:
+...
+w..
+BbW
+Stats:	f(x) = 16	g(x) = 6	h(x) = 10
+	Unseen board hash recorded: 1344250
+
+Discovered new possible move:
+.Ww
+...
+Bb.
+Stats:	f(x) = 16	g(x) = 6	h(x) = 10
+	Unseen board hash recorded: 171990
+
+Discovered new possible move:
+.W.
+...
+Bbw
+Stats:	f(x) = 18	g(x) = 6	h(x) = 12
+	Unseen board hash recorded: 1734390
+
+ === Selected Route w/ Cost 16 ===
+b..
+w.B
+W..
+
+ === Selected Route w/ Cost 16 ===
+.w.
+..B
+Wb.
+
+Discovered new possible move:
+bw.
+..B
+W..
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 50022
+
+Discovered new possible move:
+.wb
+..B
+W..
+Stats:	f(x) = 18	g(x) = 4	h(x) = 14
+	Unseen board hash recorded: 50070
+
+ === Selected Route w/ Cost 16 ===
+.Ww
+...
+Bb.
+
+Discovered new possible move:
+..w
+...
+BbW
+Stats:	f(x) = 16	g(x) = 7	h(x) = 9
+	Unseen board hash recorded: 1343850
+
+Discovered new possible move:
+.Ww
+..B
+.b.
+Stats:	f(x) = 18	g(x) = 7	h(x) = 11
+	Unseen board hash recorded: 159490
+
+ === Selected Route w/ Cost 16 ===
+..w
+W.B
+.b.
+
+Discovered new possible move:
+..w
+..B
+.bW
+Stats:	f(x) = 18	g(x) = 8	h(x) = 10
+	Unseen board hash recorded: 1331350
+
+Discovered new possible move:
+..w
+W..
+Bb.
+Stats:	f(x) = 16	g(x) = 8	h(x) = 8
+	Unseen board hash recorded: 172350
+
+Discovered new possible move:
+b.w
+W.B
+...
+Stats:	f(x) = 16	g(x) = 8	h(x) = 8
+	Unseen board hash recorded: 3602
+
+ === Selected Route w/ Cost 16 ===
+.W.
+...
+Bbw
+
+Discovered new possible move:
+bW.
+...
+B.w
+Stats:	f(x) = 16	g(x) = 5	h(x) = 11
+	Unseen board hash recorded: 1578142
+
+Discovered new possible move:
+.Wb
+...
+B.w
+Stats:	f(x) = 18	g(x) = 5	h(x) = 13
+	Unseen board hash recorded: 1578190
+
+ === Selected Route w/ Cost 16 ===
+b.w
+W.B
+...
+
+Discovered new possible move:
+b..
+W.B
+.w.
+Stats:	f(x) = 16	g(x) = 9	h(x) = 7
+	Unseen board hash recorded: 316002
+
+Discovered new possible move:
+b.w
+..B
+..W
+Stats:	f(x) = 18	g(x) = 9	h(x) = 9
+	Unseen board hash recorded: 1175102
+
+Discovered new possible move:
+b.w
+W..
+B..
+Stats:	f(x) = 16	g(x) = 9	h(x) = 7
+	Unseen board hash recorded: 16102
+
+ === Selected Route w/ Cost 16 ===
+bW.
+..B
+..w
+
+Discovered new possible move:
+bW.
+...
+B.w
+Stats:	f(x) = 16	g(x) = 5	h(x) = 11
+	Unseen board hash recorded: 1578142
+
+ === Selected Route w/ Cost 16 ===
+b.w
+W..
+B..
+
+Discovered new possible move:
+..w
+W.b
+B..
+Stats:	f(x) = 16	g(x) = 10	h(x) = 6
+	Unseen board hash recorded: 22350
+
+Discovered new possible move:
+..w
+W..
+Bb.
+Stats:	f(x) = 18	g(x) = 10	h(x) = 8
+	Unseen board hash recorded: 172350
+
+Discovered new possible move:
+b..
+W..
+Bw.
+Stats:	f(x) = 16	g(x) = 10	h(x) = 6
+	Unseen board hash recorded: 328502
+
+Discovered new possible move:
+b.w
+...
+B.W
+Stats:	f(x) = 18	g(x) = 10	h(x) = 8
+	Unseen board hash recorded: 1187602
+
+Discovered new possible move:
+bBw
+W..
+...
+Stats:	f(x) = 16	g(x) = 10	h(x) = 6
+	Unseen board hash recorded: 482
+
+ === Selected Route w/ Cost 16 ===
+bW.
+...
+B.w
+
+Discovered new possible move:
+.W.
+..b
+B.w
+Stats:	f(x) = 16	g(x) = 6	h(x) = 10
+	Unseen board hash recorded: 1584390
+
+ === Selected Route w/ Cost 16 ===
+bBw
+W..
+...
+
+Discovered new possible move:
+.Bw
+W.b
+...
+Stats:	f(x) = 16	g(x) = 11	h(x) = 5
+	Unseen board hash recorded: 6730
+
+Discovered new possible move:
+.Bw
+W..
+.b.
+Stats:	f(x) = 18	g(x) = 11	h(x) = 7
+	Unseen board hash recorded: 156730
+
+Discovered new possible move:
+b.w
+W..
+..B
+Stats:	f(x) = 16	g(x) = 11	h(x) = 5
+	Unseen board hash recorded: 391102
+
+Discovered new possible move:
+bB.
+W..
+.w.
+Stats:	f(x) = 16	g(x) = 11	h(x) = 5
+	Unseen board hash recorded: 312882
+
+Discovered new possible move:
+bBw
+...
+..W
+Stats:	f(x) = 18	g(x) = 11	h(x) = 7
+	Unseen board hash recorded: 1171982
+
+ === Selected Route w/ Cost 16 ===
+.W.
+..b
+B.w
+
+Discovered new possible move:
+.W.
+w.b
+B..
+Stats:	f(x) = 16	g(x) = 7	h(x) = 9
+	Unseen board hash recorded: 22390
+
+ === Selected Route w/ Cost 16 ===
+..b
+w.W
+.B.
+
+Discovered new possible move:
+..b
+..W
+.Bw
+Stats:	f(x) = 18	g(x) = 4	h(x) = 14
+	Unseen board hash recorded: 1650050
+
+Discovered new possible move:
+W.b
+w..
+.B.
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 78678
+
+ === Selected Route w/ Cost 16 ===
+.W.
+w.b
+B..
+
+Discovered new possible move:
+...
+w.b
+B.W
+Stats:	f(x) = 16	g(x) = 8	h(x) = 8
+	Unseen board hash recorded: 1194250
+
+Discovered new possible move:
+.Ww
+..b
+B..
+Stats:	f(x) = 16	g(x) = 8	h(x) = 8
+	Unseen board hash recorded: 21990
+
+ === Selected Route w/ Cost 16 ===
+W.b
+w..
+.B.
+
+Discovered new possible move:
+W.b
+...
+.Bw
+Stats:	f(x) = 18	g(x) = 5	h(x) = 13
+	Unseen board hash recorded: 1640678
+
+ === Selected Route w/ Cost 16 ===
+.Ww
+..b
+B..
+
+Discovered new possible move:
+..w
+..b
+B.W
+Stats:	f(x) = 16	g(x) = 9	h(x) = 7
+	Unseen board hash recorded: 1193850
+
+Discovered new possible move:
+.W.
+..b
+Bw.
+Stats:	f(x) = 16	g(x) = 9	h(x) = 7
+	Unseen board hash recorded: 334390
+
+ === Selected Route w/ Cost 16 ===
+.W.
+w.B
+.b.
+
+Discovered new possible move:
+...
+w.B
+.bW
+Stats:	f(x) = 16	g(x) = 5	h(x) = 11
+	Unseen board hash recorded: 1331750
+
+Discovered new possible move:
+.Ww
+..B
+.b.
+Stats:	f(x) = 16	g(x) = 5	h(x) = 11
+	Unseen board hash recorded: 159490
+
+ === Selected Route w/ Cost 16 ===
+.W.
+..b
+Bw.
+
+Discovered new possible move:
+...
+..b
+BwW
+Stats:	f(x) = 16	g(x) = 10	h(x) = 6
+	Unseen board hash recorded: 1506250
+
+Discovered new possible move:
+bW.
+...
+Bw.
+Stats:	f(x) = 18	g(x) = 10	h(x) = 8
+	Unseen board hash recorded: 328142
+
+Discovered new possible move:
+wW.
+..b
+B..
+Stats:	f(x) = 16	g(x) = 10	h(x) = 6
+	Unseen board hash recorded: 21894
+
+ === Selected Route w/ Cost 16 ===
+bW.
+..B
+..w
+
+ === Selected Route w/ Cost 16 ===
+wW.
+..b
+B..
+
+Discovered new possible move:
+w..
+..b
+B.W
+Stats:	f(x) = 16	g(x) = 11	h(x) = 5
+	Unseen board hash recorded: 1193754
+
+ === Selected Route w/ Cost 16 ===
+bw.
+..B
+W..
+
+ === Selected Route w/ Cost 16 ===
+w..
+..b
+B.W
+
+Discovered new possible move:
+...
+..b
+BwW
+Stats:	f(x) = 18	g(x) = 12	h(x) = 6
+	Unseen board hash recorded: 1506250
+
+Discovered new possible move:
+wB.
+..b
+..W
+Stats:	f(x) = 16	g(x) = 12	h(x) = 4
+	Unseen board hash recorded: 1178134
+
+Discovered new possible move:
+w..
+W.b
+B..
+Stats:	f(x) = 16	g(x) = 12	h(x) = 4
+	Unseen board hash recorded: 22254
+
+ === Selected Route w/ Cost 16 ===
+...
+..b
+BwW
+
+Discovered new possible move:
+b..
+...
+BwW
+Stats:	f(x) = 18	g(x) = 11	h(x) = 7
+	Unseen board hash recorded: 1500002
+
+Discovered new possible move:
+.B.
+..b
+.wW
+Stats:	f(x) = 16	g(x) = 11	h(x) = 5
+	Unseen board hash recorded: 1490630
+
+Discovered new possible move:
+..w
+..b
+B.W
+Stats:	f(x) = 18	g(x) = 11	h(x) = 7
+	Unseen board hash recorded: 1193850
+
+Discovered new possible move:
+...
+W.b
+Bw.
+Stats:	f(x) = 16	g(x) = 11	h(x) = 5
+	Unseen board hash recorded: 334750
+
+ === Selected Route w/ Cost 16 ===
+w..
+W.b
+B..
+
+Discovered new possible move:
+...
+W.b
+Bw.
+Stats:	f(x) = 18	g(x) = 13	h(x) = 5
+	Unseen board hash recorded: 334750
+
+Discovered new possible move:
+w.W
+..b
+B..
+Stats:	f(x) = 16	g(x) = 13	h(x) = 3
+	Unseen board hash recorded: 21954
+
+Discovered new possible move:
+wB.
+W.b
+...
+Stats:	f(x) = 16	g(x) = 13	h(x) = 3
+	Unseen board hash recorded: 6634
+
+ === Selected Route w/ Cost 16 ===
+bw.
+..B
+W..
+
+ === Selected Route w/ Cost 16 ===
+wB.
+W.b
+...
+
+Discovered new possible move:
+.B.
+W.b
+.w.
+Stats:	f(x) = 18	g(x) = 14	h(x) = 4
+	Unseen board hash recorded: 319130
+
+Discovered new possible move:
+w..
+W.b
+..B
+Stats:	f(x) = 16	g(x) = 14	h(x) = 2
+	Unseen board hash recorded: 397254
+
+Discovered new possible move:
+wBW
+..b
+...
+Stats:	f(x) = 16	g(x) = 14	h(x) = 2
+	Unseen board hash recorded: 6334
+
+Discovered new possible move:
+wB.
+..b
+..W
+Stats:	f(x) = 18	g(x) = 14	h(x) = 4
+	Unseen board hash recorded: 1178134
+
+Discovered new possible move:
+wB.
+W..
+b..
+Stats:	f(x) = 16	g(x) = 14	h(x) = 2
+	Unseen board hash recorded: 31634
+
+ === Selected Route w/ Cost 16 ===
+w.W
+..b
+B..
+
+Discovered new possible move:
+..W
+..b
+Bw.
+Stats:	f(x) = 18	g(x) = 14	h(x) = 4
+	Unseen board hash recorded: 334450
+
+Discovered new possible move:
+w..
+..b
+BW.
+Stats:	f(x) = 18	g(x) = 14	h(x) = 4
+	Unseen board hash recorded: 256254
+
+Discovered new possible move:
+wBW
+..b
+...
+Stats:	f(x) = 16	g(x) = 14	h(x) = 2
+	Unseen board hash recorded: 6334
+
+ === Selected Route w/ Cost 16 ===
+wB.
+W..
+b..
+
+Discovered new possible move:
+.B.
+W.w
+b..
+Stats:	f(x) = 18	g(x) = 15	h(x) = 3
+	Unseen board hash recorded: 44130
+
+Discovered new possible move:
+.B.
+W..
+bw.
+Stats:	f(x) = 18	g(x) = 15	h(x) = 3
+	Unseen board hash recorded: 344130
+
+Discovered new possible move:
+w..
+W..
+b.B
+Stats:	f(x) = 16	g(x) = 15	h(x) = 1
+	Unseen board hash recorded: 422254
+
+Discovered new possible move:
+wBW
+...
+b..
+Stats:	f(x) = 16	g(x) = 15	h(x) = 1
+	Unseen board hash recorded: 31334
+
+Discovered new possible move:
+wB.
+...
+b.W
+Stats:	f(x) = 18	g(x) = 15	h(x) = 3
+	Unseen board hash recorded: 1203134
+
+ === Selected Route w/ Cost 16 ===
+.W.
+b.B
+..w
+
+Discovered new possible move:
+.Wb
+..B
+..w
+Stats:	f(x) = 18	g(x) = 4	h(x) = 14
+	Unseen board hash recorded: 1565690
+
+Discovered new possible move:
+BW.
+b..
+..w
+Stats:	f(x) = 18	g(x) = 4	h(x) = 14
+	Unseen board hash recorded: 1562766
+
+Discovered new possible move:
+.W.
+b..
+B.w
+Stats:	f(x) = 16	g(x) = 4	h(x) = 12
+	Unseen board hash recorded: 1578390
+
+ === Selected Route w/ Cost 16 ===
+b.w
+..B
+W..
+
+Discovered new possible move:
+b..
+..B
+Ww.
+Stats:	f(x) = 16	g(x) = 6	h(x) = 10
+	Unseen board hash recorded: 362502
+
+ === Selected Route w/ Cost 16 ===
+wBW
+..b
+...
+
+Discovered new possible move:
+.BW
+..b
+.w.
+Stats:	f(x) = 18	g(x) = 15	h(x) = 3
+	Unseen board hash recorded: 318830
+
+Discovered new possible move:
+w.W
+..b
+..B
+Stats:	f(x) = 16	g(x) = 15	h(x) = 1
+	Unseen board hash recorded: 396954
+
+Discovered new possible move:
+wB.
+..b
+.W.
+Stats:	f(x) = 18	g(x) = 15	h(x) = 3
+	Unseen board hash recorded: 240634
+
+Discovered new possible move:
+wBW
+...
+b..
+Stats:	f(x) = 16	g(x) = 15	h(x) = 1
+	Unseen board hash recorded: 31334
+
+ === Selected Route w/ Cost 16 ===
+w..
+W..
+b.B
+
+Discovered new possible move:
+...
+W.w
+b.B
+Stats:	f(x) = 18	g(x) = 16	h(x) = 2
+	Unseen board hash recorded: 434750
+
+Discovered new possible move:
+...
+W..
+bwB
+Stats:	f(x) = 18	g(x) = 16	h(x) = 2
+	Unseen board hash recorded: 734750
+
+Discovered new possible move:
+w.W
+...
+b.B
+Stats:	f(x) = 16	g(x) = 16	h(x) = 0
+	Unseen board hash recorded: 421954
+
+Discovered new possible move:
+wb.
+W..
+..B
+Stats:	f(x) = 18	g(x) = 16	h(x) = 2
+	Unseen board hash recorded: 391014
+
+Discovered new possible move:
+w..
+W.b
+..B
+Stats:	f(x) = 18	g(x) = 16	h(x) = 2
+	Unseen board hash recorded: 397254
+
+ === Selected Route w/ Cost 16 ===
+wBW
+...
+b..
+
+Discovered new possible move:
+.BW
+..w
+b..
+Stats:	f(x) = 18	g(x) = 16	h(x) = 2
+	Unseen board hash recorded: 43830
+
+Discovered new possible move:
+.BW
+...
+bw.
+Stats:	f(x) = 18	g(x) = 16	h(x) = 2
+	Unseen board hash recorded: 343830
+
+Discovered new possible move:
+w.W
+...
+b.B
+Stats:	f(x) = 16	g(x) = 16	h(x) = 0
+	Unseen board hash recorded: 421954
+
+Discovered new possible move:
+wB.
+...
+bW.
+Stats:	f(x) = 18	g(x) = 16	h(x) = 2
+	Unseen board hash recorded: 265634
+
+ === Selected Route w/ Cost 16 ===
+.W.
+b..
+B.w
+
+Discovered new possible move:
+.Wb
+...
+B.w
+Stats:	f(x) = 18	g(x) = 5	h(x) = 13
+	Unseen board hash recorded: 1578190
+
+ === Selected Route w/ Cost 16 ===
+b..
+..B
+Ww.
+
+Discovered new possible move:
+bW.
+..B
+.w.
+Stats:	f(x) = 16	g(x) = 7	h(x) = 9
+	Unseen board hash recorded: 315642
+
+ === Selected Route w/ Cost 16 ===
+w.W
+..b
+..B
+
+Discovered new possible move:
+..W
+..b
+.wB
+Stats:	f(x) = 18	g(x) = 16	h(x) = 2
+	Unseen board hash recorded: 709450
+
+Discovered new possible move:
+w..
+W.b
+..B
+Stats:	f(x) = 18	g(x) = 16	h(x) = 2
+	Unseen board hash recorded: 397254
+
+Discovered new possible move:
+w..
+..b
+.WB
+Stats:	f(x) = 18	g(x) = 16	h(x) = 2
+	Unseen board hash recorded: 631254
+
+Discovered new possible move:
+w.W
+...
+b.B
+Stats:	f(x) = 16	g(x) = 16	h(x) = 0
+	Unseen board hash recorded: 421954
+
+Discovered new possible move:
+w.W
+B.b
+...
+Stats:	f(x) = 18	g(x) = 16	h(x) = 2
+	Unseen board hash recorded: 6454
+
+ === Selected Route w/ Cost 16 ===
+wBW
+...
+b..
+
+Discovered new possible move:
+.BW
+..w
+b..
+Stats:	f(x) = 18	g(x) = 16	h(x) = 2
+	Unseen board hash recorded: 43830
+
+Discovered new possible move:
+.BW
+...
+bw.
+Stats:	f(x) = 18	g(x) = 16	h(x) = 2
+	Unseen board hash recorded: 343830
+
+Discovered new possible move:
+w.W
+...
+b.B
+Stats:	f(x) = 16	g(x) = 16	h(x) = 0
+	Unseen board hash recorded: 421954
+
+Discovered new possible move:
+wB.
+...
+bW.
+Stats:	f(x) = 18	g(x) = 16	h(x) = 2
+	Unseen board hash recorded: 265634
+
+ === Selected Route w/ Cost 16 ===
+w.W
+...
+b.B
+
+
+
+========================================
+Final game route (16 steps):
+B.b
+...
+W.w
+
+..b
+..B
+W.w
+
+...
+..B
+Wbw
+
+.W.
+..B
+.bw
+
+bW.
+..B
+..w
+
+bW.
+...
+B.w
+
+.W.
+..b
+B.w
+
+.W.
+w.b
+B..
+
+.Ww
+..b
+B..
+
+.W.
+..b
+Bw.
+
+wW.
+..b
+B..
+
+w..
+..b
+B.W
+
+w..
+W.b
+B..
+
+wB.
+W.b
+...
+
+wB.
+W..
+b..
+
+w..
+W..
+b.B
+
+w.W
+...
+b.B
+
+
+==*=*=*=*=*=*=*=*=*=*=*==
+Nice! You won!!!
+	Tree Expansions with A*: 76
+	Time taken: 0.000471 seconds
+
+
+
+
+========================================
+Playing the game with branch and bound...
+
+-- Initializing game board...
+B.b
+...
+W.w
+
+-- Game goal state...
+w.W
+...
+b.B
+
+Discovered new possible move:
+..b
+..B
+W.w
+Stats:	f(x) = 1	g(x) = 1	h(x) = 0
+
+Discovered new possible move:
+..b
+...
+WBw
+Stats:	f(x) = 1	g(x) = 1	h(x) = 0
+
+Discovered new possible move:
+B..
+b..
+W.w
+Stats:	f(x) = 1	g(x) = 1	h(x) = 0
+
+Discovered new possible move:
+B..
+...
+Wbw
+Stats:	f(x) = 1	g(x) = 1	h(x) = 0
+
+Discovered new possible move:
+BWb
+...
+..w
+Stats:	f(x) = 1	g(x) = 1	h(x) = 0
+
+Discovered new possible move:
+B.b
+..W
+..w
+Stats:	f(x) = 1	g(x) = 1	h(x) = 0
+
+Discovered new possible move:
+Bwb
+...
+W..
+Stats:	f(x) = 1	g(x) = 1	h(x) = 0
+
+Discovered new possible move:
+B.b
+w..
+W..
+Stats:	f(x) = 1	g(x) = 1	h(x) = 0
+
+ === Selected Route w/ Cost 1 ===
+..b
+..B
+W.w
+
+Discovered new possible move:
+...
+b.B
+W.w
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+Discovered new possible move:
+...
+..B
+Wbw
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+Discovered new possible move:
+B.b
+...
+W.w
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+Discovered new possible move:
+.Wb
+..B
+..w
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+Discovered new possible move:
+.wb
+..B
+W..
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+Discovered new possible move:
+..b
+w.B
+W..
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+ === Selected Route w/ Cost 1 ===
+B.b
+w..
+W..
+
+Discovered new possible move:
+..b
+w..
+WB.
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+Discovered new possible move:
+B..
+w..
+Wb.
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+Discovered new possible move:
+BWb
+w..
+...
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+Discovered new possible move:
+B.b
+w.W
+...
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+ === Selected Route w/ Cost 1 ===
+..b
+...
+WBw
+
+Discovered new possible move:
+...
+b..
+WBw
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+Discovered new possible move:
+.Wb
+...
+.Bw
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+Discovered new possible move:
+..b
+..W
+.Bw
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+Discovered new possible move:
+.wb
+...
+WB.
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+ === Selected Route w/ Cost 1 ===
+B..
+...
+Wbw
+
+Discovered new possible move:
+BW.
+...
+.bw
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+Discovered new possible move:
+B..
+..W
+.bw
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+Discovered new possible move:
+Bw.
+...
+Wb.
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+ === Selected Route w/ Cost 1 ===
+BWb
+...
+..w
+
+Discovered new possible move:
+BW.
+b..
+..w
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+ === Selected Route w/ Cost 1 ===
+B..
+b..
+W.w
+
+Discovered new possible move:
+B..
+b.W
+..w
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+Discovered new possible move:
+Bw.
+b..
+W..
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+ === Selected Route w/ Cost 1 ===
+B.b
+..W
+..w
+
+Discovered new possible move:
+Bwb
+..W
+...
+Stats:	f(x) = 2	g(x) = 2	h(x) = 0
+
+ === Selected Route w/ Cost 1 ===
+Bwb
+...
+W..
+
+ === Selected Route w/ Cost 2 ===
+Bwb
+..W
+...
+
+Discovered new possible move:
+.wb
+..W
+.B.
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+Discovered new possible move:
+B.b
+..W
+w..
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+Discovered new possible move:
+Bw.
+b.W
+...
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+Discovered new possible move:
+Bw.
+..W
+.b.
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+ === Selected Route w/ Cost 2 ===
+B..
+b.W
+..w
+
+Discovered new possible move:
+...
+b.W
+.Bw
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+ === Selected Route w/ Cost 2 ===
+.wb
+...
+WB.
+
+Discovered new possible move:
+.w.
+b..
+WB.
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+ === Selected Route w/ Cost 2 ===
+..b
+w.B
+W..
+
+Discovered new possible move:
+...
+w.B
+Wb.
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+Discovered new possible move:
+.Wb
+w.B
+...
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+ === Selected Route w/ Cost 2 ===
+...
+b.B
+W.w
+
+Discovered new possible move:
+.W.
+b.B
+..w
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+Discovered new possible move:
+.w.
+b.B
+W..
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+ === Selected Route w/ Cost 2 ===
+...
+b..
+WBw
+
+Discovered new possible move:
+.W.
+b..
+.Bw
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+Discovered new possible move:
+..B
+b..
+W.w
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+ === Selected Route w/ Cost 2 ===
+.Wb
+...
+.Bw
+
+Discovered new possible move:
+.Wb
+w..
+.B.
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+ === Selected Route w/ Cost 2 ===
+...
+..B
+Wbw
+
+Discovered new possible move:
+.W.
+..B
+.bw
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+Discovered new possible move:
+b..
+..B
+W.w
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+Discovered new possible move:
+.w.
+..B
+Wb.
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+ === Selected Route w/ Cost 2 ===
+..b
+..W
+.Bw
+
+Discovered new possible move:
+W.b
+...
+.Bw
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+Discovered new possible move:
+..b
+w.W
+.B.
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+ === Selected Route w/ Cost 2 ===
+BW.
+...
+.bw
+
+Discovered new possible move:
+BW.
+w..
+.b.
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+ === Selected Route w/ Cost 2 ===
+B.b
+w.W
+...
+
+Discovered new possible move:
+B..
+w.W
+.b.
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+ === Selected Route w/ Cost 2 ===
+B.b
+...
+W.w
+
+ === Selected Route w/ Cost 2 ===
+B..
+..W
+.bw
+
+ === Selected Route w/ Cost 2 ===
+.Wb
+..B
+..w
+
+Discovered new possible move:
+.Wb
+...
+B.w
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+ === Selected Route w/ Cost 2 ===
+Bw.
+b..
+W..
+
+Discovered new possible move:
+Bw.
+...
+W.b
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+ === Selected Route w/ Cost 2 ===
+Bw.
+...
+Wb.
+
+ === Selected Route w/ Cost 2 ===
+.wb
+..B
+W..
+
+ === Selected Route w/ Cost 2 ===
+..b
+w..
+WB.
+
+ === Selected Route w/ Cost 2 ===
+BW.
+b..
+..w
+
+ === Selected Route w/ Cost 2 ===
+B..
+w..
+Wb.
+
+Discovered new possible move:
+B.w
+...
+Wb.
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+ === Selected Route w/ Cost 2 ===
+BWb
+w..
+...
+
+Discovered new possible move:
+B.b
+w..
+..W
+Stats:	f(x) = 3	g(x) = 3	h(x) = 0
+
+ === Selected Route w/ Cost 3 ===
+B.w
+...
+Wb.
+
+Discovered new possible move:
+..w
+..B
+Wb.
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+Discovered new possible move:
+BWw
+...
+.b.
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+Discovered new possible move:
+B.w
+..W
+.b.
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+ === Selected Route w/ Cost 3 ===
+B.b
+w..
+..W
+
+Discovered new possible move:
+..b
+w.B
+..W
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+Discovered new possible move:
+..b
+w..
+.BW
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+Discovered new possible move:
+B..
+w..
+.bW
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+ === Selected Route w/ Cost 3 ===
+W.b
+...
+.Bw
+
+Discovered new possible move:
+W..
+b..
+.Bw
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+Discovered new possible move:
+Wwb
+...
+.B.
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+Discovered new possible move:
+W.b
+w..
+.B.
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+ === Selected Route w/ Cost 3 ===
+.Wb
+w..
+.B.
+
+ === Selected Route w/ Cost 3 ===
+.w.
+b..
+WB.
+
+Discovered new possible move:
+.w.
+...
+WBb
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+Discovered new possible move:
+.w.
+b.W
+.B.
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+Discovered new possible move:
+.wB
+b..
+W..
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+ === Selected Route w/ Cost 3 ===
+Bw.
+..W
+.b.
+
+Discovered new possible move:
+B..
+..W
+wb.
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+ === Selected Route w/ Cost 3 ===
+...
+b.W
+.Bw
+
+Discovered new possible move:
+..B
+b.W
+..w
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+ === Selected Route w/ Cost 3 ===
+..B
+b..
+W.w
+
+Discovered new possible move:
+.WB
+b..
+..w
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+ === Selected Route w/ Cost 3 ===
+.Wb
+w.B
+...
+
+Discovered new possible move:
+.W.
+w.B
+.b.
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+Discovered new possible move:
+.Wb
+w..
+B..
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+ === Selected Route w/ Cost 3 ===
+.w.
+b.B
+W..
+
+Discovered new possible move:
+.w.
+..B
+W.b
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+ === Selected Route w/ Cost 3 ===
+B..
+w.W
+.b.
+
+ === Selected Route w/ Cost 3 ===
+..b
+w.W
+.B.
+
+ === Selected Route w/ Cost 3 ===
+.w.
+..B
+Wb.
+
+Discovered new possible move:
+bw.
+..B
+W..
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+ === Selected Route w/ Cost 3 ===
+.wb
+..W
+.B.
+
+Discovered new possible move:
+..b
+..W
+wB.
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+ === Selected Route w/ Cost 3 ===
+BW.
+w..
+.b.
+
+ === Selected Route w/ Cost 3 ===
+B.b
+..W
+w..
+
+Discovered new possible move:
+B..
+b.W
+w..
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+ === Selected Route w/ Cost 3 ===
+Bw.
+b.W
+...
+
+Discovered new possible move:
+Bw.
+..W
+..b
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+ === Selected Route w/ Cost 3 ===
+...
+w.B
+Wb.
+
+Discovered new possible move:
+b..
+w.B
+W..
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+ === Selected Route w/ Cost 3 ===
+Bw.
+...
+W.b
+
+ === Selected Route w/ Cost 3 ===
+b..
+..B
+W.w
+
+Discovered new possible move:
+bW.
+..B
+..w
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+ === Selected Route w/ Cost 3 ===
+.Wb
+...
+B.w
+
+Discovered new possible move:
+.W.
+b..
+B.w
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+Discovered new possible move:
+.W.
+...
+Bbw
+Stats:	f(x) = 4	g(x) = 4	h(x) = 0
+
+ === Selected Route w/ Cost 3 ===
+.W.
+b.B
+..w
+
+ === Selected Route w/ Cost 3 ===
+.W.
+..B
+.bw
+
+ === Selected Route w/ Cost 3 ===
+.W.
+b..
+.Bw
+
+ === Selected Route w/ Cost 4 ===
+..b
+w..
+.BW
+
+ === Selected Route w/ Cost 4 ===
+..b
+w.B
+..W
+
+Discovered new possible move:
+...
+w.B
+.bW
+Stats:	f(x) = 5	g(x) = 5	h(x) = 0
+
+Discovered new possible move:
+..b
+w..
+B.W
+Stats:	f(x) = 5	g(x) = 5	h(x) = 0
+
+ === Selected Route w/ Cost 4 ===
+BWw
+...
+.b.
+
+Discovered new possible move:
+.Ww
+..B
+.b.
+Stats:	f(x) = 5	g(x) = 5	h(x) = 0
+
+Discovered new possible move:
+B.w
+...
+.bW
+Stats:	f(x) = 5	g(x) = 5	h(x) = 0
+
+ === Selected Route w/ Cost 4 ===
+.w.
+...
+WBb
+
+Discovered new possible move:
+.w.
+..W
+.Bb
+Stats:	f(x) = 5	g(x) = 5	h(x) = 0
+
+Discovered new possible move:
+.wB
+...
+W.b
+Stats:	f(x) = 5	g(x) = 5	h(x) = 0
+
+ === Selected Route w/ Cost 4 ===
+..B
+b.W
+..w
+
+Discovered new possible move:
+W.B
+b..
+..w
+Stats:	f(x) = 5	g(x) = 5	h(x) = 0
+
+Discovered new possible move:
+.wB
+b.W
+...
+Stats:	f(x) = 5	g(x) = 5	h(x) = 0
+
+ === Selected Route w/ Cost 4 ===
+W.b
+w..
+.B.
+
+ === Selected Route w/ Cost 4 ===
+B.w
+..W
+.b.
+
+ === Selected Route w/ Cost 4 ===
+B..
+w..
+.bW
+
+ === Selected Route w/ Cost 4 ===
+B..
+..W
+wb.
+
+ === Selected Route w/ Cost 4 ===
+Wwb
+...
+.B.
+
+Discovered new possible move:
+W.b
+...
+wB.
+Stats:	f(x) = 5	g(x) = 5	h(x) = 0
+
+Discovered new possible move:
+Ww.
+b..
+.B.
+Stats:	f(x) = 5	g(x) = 5	h(x) = 0
+
+ === Selected Route w/ Cost 4 ===
+.wB
+b..
+W..
+
+ === Selected Route w/ Cost 4 ===
+..b
+..W
+wB.
+
+Discovered new possible move:
+...
+b.W
+wB.
+Stats:	f(x) = 5	g(x) = 5	h(x) = 0
+
+ === Selected Route w/ Cost 4 ===
+.w.
+..B
+W.b
+
+ === Selected Route w/ Cost 4 ===
+.WB
+b..
+..w
+
+ === Selected Route w/ Cost 4 ===
+..w
+..B
+Wb.
+
+Discovered new possible move:
+b.w
+..B
+W..
+Stats:	f(x) = 5	g(x) = 5	h(x) = 0
+
+ === Selected Route w/ Cost 4 ===
+.w.
+b.W
+.B.
+
+ === Selected Route w/ Cost 4 ===
+.Wb
+w..
+B..
+
+Discovered new possible move:
+.W.
+w..
+Bb.
+Stats:	f(x) = 5	g(x) = 5	h(x) = 0
+
+ === Selected Route w/ Cost 4 ===
+bw.
+..B
+W..
+
+ === Selected Route w/ Cost 4 ===
+.W.
+w.B
+.b.
+
+Discovered new possible move:
+bW.
+w.B
+...
+Stats:	f(x) = 5	g(x) = 5	h(x) = 0
+
+ === Selected Route w/ Cost 4 ===
+.W.
+b..
+B.w
+
+ === Selected Route w/ Cost 4 ===
+b..
+w.B
+W..
+
+ === Selected Route w/ Cost 4 ===
+B..
+b.W
+w..
+
+Discovered new possible move:
+B..
+..W
+w.b
+Stats:	f(x) = 5	g(x) = 5	h(x) = 0
+
+ === Selected Route w/ Cost 4 ===
+Bw.
+..W
+..b
+
+ === Selected Route w/ Cost 4 ===
+.W.
+...
+Bbw
+
+Discovered new possible move:
+bW.
+...
+B.w
+Stats:	f(x) = 5	g(x) = 5	h(x) = 0
+
+ === Selected Route w/ Cost 4 ===
+W..
+b..
+.Bw
+
+ === Selected Route w/ Cost 4 ===
+bW.
+..B
+..w
+
+ === Selected Route w/ Cost 5 ===
+B.w
+...
+.bW
+
+Discovered new possible move:
+..w
+..B
+.bW
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+Discovered new possible move:
+B.w
+W..
+.b.
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+ === Selected Route w/ Cost 5 ===
+..b
+w..
+B.W
+
+Discovered new possible move:
+...
+w..
+BbW
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+Discovered new possible move:
+.Bb
+w..
+..W
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+ === Selected Route w/ Cost 5 ===
+.W.
+w..
+Bb.
+
+Discovered new possible move:
+.Ww
+...
+Bb.
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+Discovered new possible move:
+bW.
+w..
+B..
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+ === Selected Route w/ Cost 5 ===
+.Ww
+..B
+.b.
+
+Discovered new possible move:
+bWw
+..B
+...
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+ === Selected Route w/ Cost 5 ===
+.wB
+...
+W.b
+
+Discovered new possible move:
+.w.
+B..
+W.b
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+Discovered new possible move:
+.wB
+..W
+..b
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+ === Selected Route w/ Cost 5 ===
+.w.
+..W
+.Bb
+
+Discovered new possible move:
+...
+..W
+wBb
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+Discovered new possible move:
+Ww.
+...
+.Bb
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+ === Selected Route w/ Cost 5 ===
+...
+b.W
+wB.
+
+Discovered new possible move:
+W..
+b..
+wB.
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+Discovered new possible move:
+..B
+b.W
+w..
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+ === Selected Route w/ Cost 5 ===
+W.b
+...
+wB.
+
+Discovered new possible move:
+W.b
+..w
+.B.
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+ === Selected Route w/ Cost 5 ===
+b.w
+..B
+W..
+
+Discovered new possible move:
+b..
+..B
+Ww.
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+ === Selected Route w/ Cost 5 ===
+bW.
+...
+B.w
+
+Discovered new possible move:
+.W.
+..b
+B.w
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+ === Selected Route w/ Cost 5 ===
+...
+w.B
+.bW
+
+Discovered new possible move:
+b..
+w.B
+..W
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+ === Selected Route w/ Cost 5 ===
+Ww.
+b..
+.B.
+
+Discovered new possible move:
+WwB
+b..
+...
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+ === Selected Route w/ Cost 5 ===
+bW.
+w.B
+...
+
+ === Selected Route w/ Cost 5 ===
+.wB
+b.W
+...
+
+ === Selected Route w/ Cost 5 ===
+W.B
+b..
+..w
+
+Discovered new possible move:
+..B
+b..
+.Ww
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+ === Selected Route w/ Cost 5 ===
+B..
+..W
+w.b
+
+Discovered new possible move:
+Bb.
+..W
+w..
+Stats:	f(x) = 6	g(x) = 6	h(x) = 0
+
+ === Selected Route w/ Cost 6 ===
+..B
+b..
+.Ww
+
+Discovered new possible move:
+.wB
+b..
+.W.
+Stats:	f(x) = 7	g(x) = 7	h(x) = 0
+
+ === Selected Route w/ Cost 6 ===
+Bb.
+..W
+w..
+
+Discovered new possible move:
+.b.
+..W
+wB.
+Stats:	f(x) = 7	g(x) = 7	h(x) = 0
+
+ === Selected Route w/ Cost 6 ===
+..B
+b.W
+w..
+
+Discovered new possible move:
+..B
+..W
+w.b
+Stats:	f(x) = 7	g(x) = 7	h(x) = 0
+
+Discovered new possible move:
+W.B
+b..
+w..
+Stats:	f(x) = 7	g(x) = 7	h(x) = 0
+
+ === Selected Route w/ Cost 6 ===
+bW.
+w..
+B..
+
+Discovered new possible move:
+.W.
+w.b
+B..
+Stats:	f(x) = 7	g(x) = 7	h(x) = 0
+
+Discovered new possible move:
+b..
+w..
+B.W
+Stats:	f(x) = 7	g(x) = 7	h(x) = 0
+
+Discovered new possible move:
+bWw
+...
+B..
+Stats:	f(x) = 7	g(x) = 7	h(x) = 0
+
+ === Selected Route w/ Cost 6 ===
+B.w
+W..
+.b.
+
+Discovered new possible move:
+..w
+W.B
+.b.
+Stats:	f(x) = 7	g(x) = 7	h(x) = 0
+
+ === Selected Route w/ Cost 6 ===
+..w
+..B
+.bW
+
+Discovered new possible move:
+..w
+...
+BbW
+Stats:	f(x) = 7	g(x) = 7	h(x) = 0
+
+Discovered new possible move:
+b.w
+..B
+..W
+Stats:	f(x) = 7	g(x) = 7	h(x) = 0
+
+ === Selected Route w/ Cost 6 ===
+...
+w..
+BbW
+
+Discovered new possible move:
+.B.
+w..
+.bW
+Stats:	f(x) = 7	g(x) = 7	h(x) = 0
+
+ === Selected Route w/ Cost 6 ===
+.Bb
+w..
+..W
+
+ === Selected Route w/ Cost 6 ===
+.Ww
+...
+Bb.
+
+ === Selected Route w/ Cost 6 ===
+.w.
+B..
+W.b
+
+Discovered new possible move:
+.w.
+B.W
+..b
+Stats:	f(x) = 7	g(x) = 7	h(x) = 0
+
+ === Selected Route w/ Cost 6 ===
+Ww.
+...
+.Bb
+
+Discovered new possible move:
+W..
+...
+wBb
+Stats:	f(x) = 7	g(x) = 7	h(x) = 0
+
+Discovered new possible move:
+WwB
+...
+..b
+Stats:	f(x) = 7	g(x) = 7	h(x) = 0
+
+ === Selected Route w/ Cost 6 ===
+bWw
+..B
+...
+
+Discovered new possible move:
+bW.
+..B
+.w.
+Stats:	f(x) = 7	g(x) = 7	h(x) = 0
+
+ === Selected Route w/ Cost 6 ===
+.wB
+..W
+..b
+
+ === Selected Route w/ Cost 6 ===
+...
+..W
+wBb
+
+ === Selected Route w/ Cost 6 ===
+.W.
+..b
+B.w
+
+ === Selected Route w/ Cost 6 ===
+W.b
+..w
+.B.
+
+Discovered new possible move:
+W..
+b.w
+.B.
+Stats:	f(x) = 7	g(x) = 7	h(x) = 0
+
+ === Selected Route w/ Cost 6 ===
+b..
+..B
+Ww.
+
+ === Selected Route w/ Cost 6 ===
+W..
+b..
+wB.
+
+ === Selected Route w/ Cost 6 ===
+b..
+w.B
+..W
+
+ === Selected Route w/ Cost 6 ===
+WwB
+b..
+...
+
+ === Selected Route w/ Cost 7 ===
+.b.
+..W
+wB.
+
+Discovered new possible move:
+Wb.
+...
+wB.
+Stats:	f(x) = 8	g(x) = 8	h(x) = 0
+
+Discovered new possible move:
+.bB
+..W
+w..
+Stats:	f(x) = 8	g(x) = 8	h(x) = 0
+
+ === Selected Route w/ Cost 7 ===
+.wB
+b..
+.W.
+
+Discovered new possible move:
+..B
+b..
+wW.
+Stats:	f(x) = 8	g(x) = 8	h(x) = 0
+
+Discovered new possible move:
+.wB
+...
+.Wb
+Stats:	f(x) = 8	g(x) = 8	h(x) = 0
+
+ === Selected Route w/ Cost 7 ===
+WwB
+...
+..b
+
+Discovered new possible move:
+W.B
+...
+w.b
+Stats:	f(x) = 8	g(x) = 8	h(x) = 0
+
+Discovered new possible move:
+Ww.
+B..
+..b
+Stats:	f(x) = 8	g(x) = 8	h(x) = 0
+
+ === Selected Route w/ Cost 7 ===
+.B.
+w..
+.bW
+
+Discovered new possible move:
+.Bw
+...
+.bW
+Stats:	f(x) = 8	g(x) = 8	h(x) = 0
+
+Discovered new possible move:
+bB.
+w..
+..W
+Stats:	f(x) = 8	g(x) = 8	h(x) = 0
+
+ === Selected Route w/ Cost 7 ===
+W.B
+b..
+w..
+
+Discovered new possible move:
+W.B
+b.w
+...
+Stats:	f(x) = 8	g(x) = 8	h(x) = 0
+
+ === Selected Route w/ Cost 7 ===
+b.w
+..B
+..W
+
+Discovered new possible move:
+b..
+..B
+.wW
+Stats:	f(x) = 8	g(x) = 8	h(x) = 0
+
+Discovered new possible move:
+b.w
+...
+B.W
+Stats:	f(x) = 8	g(x) = 8	h(x) = 0
+
+Discovered new possible move:
+b.w
+W.B
+...
+Stats:	f(x) = 8	g(x) = 8	h(x) = 0
+
+ === Selected Route w/ Cost 7 ===
+.w.
+B.W
+..b
+
+Discovered new possible move:
+...
+B.W
+w.b
+Stats:	f(x) = 8	g(x) = 8	h(x) = 0
+
+ === Selected Route w/ Cost 7 ===
+..w
+...
+BbW
+
+Discovered new possible move:
+..w
+W..
+Bb.
+Stats:	f(x) = 8	g(x) = 8	h(x) = 0
+
+ === Selected Route w/ Cost 7 ===
+b..
+w..
+B.W
+
+Discovered new possible move:
+...
+w.b
+B.W
+Stats:	f(x) = 8	g(x) = 8	h(x) = 0
+
+ === Selected Route w/ Cost 7 ===
+bWw
+...
+B..
+
+Discovered new possible move:
+.Ww
+..b
+B..
+Stats:	f(x) = 8	g(x) = 8	h(x) = 0
+
+Discovered new possible move:
+bW.
+...
+Bw.
+Stats:	f(x) = 8	g(x) = 8	h(x) = 0
+
+ === Selected Route w/ Cost 7 ===
+.W.
+w.b
+B..
+
+ === Selected Route w/ Cost 7 ===
+bW.
+..B
+.w.
+
+ === Selected Route w/ Cost 7 ===
+W..
+...
+wBb
+
+Discovered new possible move:
+W..
+..w
+.Bb
+Stats:	f(x) = 8	g(x) = 8	h(x) = 0
+
+ === Selected Route w/ Cost 7 ===
+..w
+W.B
+.b.
+
+ === Selected Route w/ Cost 7 ===
+..B
+..W
+w.b
+
+ === Selected Route w/ Cost 7 ===
+W..
+b.w
+.B.
+
+ === Selected Route w/ Cost 8 ===
+.Bw
+...
+.bW
+
+Discovered new possible move:
+bBw
+...
+..W
+Stats:	f(x) = 9	g(x) = 9	h(x) = 0
+
+Discovered new possible move:
+.Bw
+W..
+.b.
+Stats:	f(x) = 9	g(x) = 9	h(x) = 0
+
+ === Selected Route w/ Cost 8 ===
+W.B
+...
+w.b
+
+Discovered new possible move:
+..B
+...
+wWb
+Stats:	f(x) = 9	g(x) = 9	h(x) = 0
+
+Discovered new possible move:
+W..
+B..
+w.b
+Stats:	f(x) = 9	g(x) = 9	h(x) = 0
+
+Discovered new possible move:
+W.B
+..w
+..b
+Stats:	f(x) = 9	g(x) = 9	h(x) = 0
+
+Discovered new possible move:
+WbB
+...
+w..
+Stats:	f(x) = 9	g(x) = 9	h(x) = 0
+
+ === Selected Route w/ Cost 8 ===
+...
+B.W
+w.b
+
+Discovered new possible move:
+.b.
+B.W
+w..
+Stats:	f(x) = 9	g(x) = 9	h(x) = 0
+
+ === Selected Route w/ Cost 8 ===
+Ww.
+B..
+..b
+
+Discovered new possible move:
+.w.
+B..
+.Wb
+Stats:	f(x) = 9	g(x) = 9	h(x) = 0
+
+ === Selected Route w/ Cost 8 ===
+.bB
+..W
+w..
+
+ === Selected Route w/ Cost 8 ===
+Wb.
+...
+wB.
+
+Discovered new possible move:
+Wb.
+..w
+.B.
+Stats:	f(x) = 9	g(x) = 9	h(x) = 0
+
+ === Selected Route w/ Cost 8 ===
+..B
+b..
+wW.
+
+Discovered new possible move:
+..B
+b.w
+.W.
+Stats:	f(x) = 9	g(x) = 9	h(x) = 0
+
+ === Selected Route w/ Cost 8 ===
+.wB
+...
+.Wb
+
+ === Selected Route w/ Cost 8 ===
+b.w
+W.B
+...
+
+Discovered new possible move:
+b..
+W.B
+.w.
+Stats:	f(x) = 9	g(x) = 9	h(x) = 0
+
+Discovered new possible move:
+b.w
+W..
+B..
+Stats:	f(x) = 9	g(x) = 9	h(x) = 0
+
+ === Selected Route w/ Cost 8 ===
+bB.
+w..
+..W
+
+Discovered new possible move:
+.B.
+w.b
+..W
+Stats:	f(x) = 9	g(x) = 9	h(x) = 0
+
+ === Selected Route w/ Cost 8 ===
+W.B
+b.w
+...
+
+ === Selected Route w/ Cost 8 ===
+b..
+..B
+.wW
+
+Discovered new possible move:
+b..
+...
+BwW
+Stats:	f(x) = 9	g(x) = 9	h(x) = 0
+
+ === Selected Route w/ Cost 8 ===
+bW.
+...
+Bw.
+
+Discovered new possible move:
+.W.
+..b
+Bw.
+Stats:	f(x) = 9	g(x) = 9	h(x) = 0
+
+ === Selected Route w/ Cost 8 ===
+..w
+W..
+Bb.
+
+ === Selected Route w/ Cost 8 ===
+...
+w.b
+B.W
+
+Discovered new possible move:
+..w
+..b
+B.W
+Stats:	f(x) = 9	g(x) = 9	h(x) = 0
+
+ === Selected Route w/ Cost 8 ===
+W..
+..w
+.Bb
+
+ === Selected Route w/ Cost 8 ===
+.Ww
+..b
+B..
+
+ === Selected Route w/ Cost 8 ===
+b.w
+...
+B.W
+
+ === Selected Route w/ Cost 9 ===
+WbB
+...
+w..
+
+Discovered new possible move:
+.bB
+...
+wW.
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+Discovered new possible move:
+Wb.
+B..
+w..
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+Discovered new possible move:
+WbB
+..w
+...
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+ === Selected Route w/ Cost 9 ===
+.Bw
+W..
+.b.
+
+Discovered new possible move:
+..w
+W..
+.bB
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+Discovered new possible move:
+bBw
+W..
+...
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+ === Selected Route w/ Cost 9 ===
+b.w
+W..
+B..
+
+Discovered new possible move:
+..w
+W.b
+B..
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+Discovered new possible move:
+b..
+W..
+Bw.
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+ === Selected Route w/ Cost 9 ===
+W.B
+..w
+..b
+
+Discovered new possible move:
+..B
+..w
+.Wb
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+Discovered new possible move:
+W..
+B.w
+..b
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+ === Selected Route w/ Cost 9 ===
+.b.
+B.W
+w..
+
+Discovered new possible move:
+.b.
+..W
+w.B
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+ === Selected Route w/ Cost 9 ===
+.w.
+B..
+.Wb
+
+Discovered new possible move:
+...
+B..
+wWb
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+Discovered new possible move:
+.wW
+B..
+..b
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+ === Selected Route w/ Cost 9 ===
+W..
+B..
+w.b
+
+ === Selected Route w/ Cost 9 ===
+Wb.
+..w
+.B.
+
+Discovered new possible move:
+W..
+..w
+bB.
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+ === Selected Route w/ Cost 9 ===
+..B
+b.w
+.W.
+
+Discovered new possible move:
+w.B
+b..
+.W.
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+ === Selected Route w/ Cost 9 ===
+bBw
+...
+..W
+
+Discovered new possible move:
+.Bw
+..b
+..W
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+Discovered new possible move:
+bB.
+...
+.wW
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+ === Selected Route w/ Cost 9 ===
+b..
+...
+BwW
+
+Discovered new possible move:
+...
+..b
+BwW
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+ === Selected Route w/ Cost 9 ===
+.B.
+w.b
+..W
+
+Discovered new possible move:
+.B.
+w..
+b.W
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+ === Selected Route w/ Cost 9 ===
+b..
+W.B
+.w.
+
+Discovered new possible move:
+b.W
+..B
+.w.
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+ === Selected Route w/ Cost 9 ===
+..w
+..b
+B.W
+
+ === Selected Route w/ Cost 9 ===
+.W.
+..b
+Bw.
+
+Discovered new possible move:
+wW.
+..b
+B..
+Stats:	f(x) = 10	g(x) = 10	h(x) = 0
+
+ === Selected Route w/ Cost 9 ===
+..B
+...
+wWb
+
+ === Selected Route w/ Cost 10 ===
+wW.
+..b
+B..
+
+Discovered new possible move:
+w..
+..b
+B.W
+Stats:	f(x) = 11	g(x) = 11	h(x) = 0
+
+ === Selected Route w/ Cost 10 ===
+..B
+..w
+.Wb
+
+Discovered new possible move:
+...
+B.w
+.Wb
+Stats:	f(x) = 11	g(x) = 11	h(x) = 0
+
+Discovered new possible move:
+w.B
+...
+.Wb
+Stats:	f(x) = 11	g(x) = 11	h(x) = 0
+
+Discovered new possible move:
+.bB
+..w
+.W.
+Stats:	f(x) = 11	g(x) = 11	h(x) = 0
+
+ === Selected Route w/ Cost 10 ===
+...
+B..
+wWb
+
+Discovered new possible move:
+..W
+B..
+w.b
+Stats:	f(x) = 11	g(x) = 11	h(x) = 0
+
+Discovered new possible move:
+.b.
+B..
+wW.
+Stats:	f(x) = 11	g(x) = 11	h(x) = 0
+
+ === Selected Route w/ Cost 10 ===
+b..
+W..
+Bw.
+
+Discovered new possible move:
+...
+W.b
+Bw.
+Stats:	f(x) = 11	g(x) = 11	h(x) = 0
+
+Discovered new possible move:
+b.W
+...
+Bw.
+Stats:	f(x) = 11	g(x) = 11	h(x) = 0
+
+Discovered new possible move:
+bB.
+W..
+.w.
+Stats:	f(x) = 11	g(x) = 11	h(x) = 0
+
+ === Selected Route w/ Cost 10 ===
+WbB
+..w
+...
+
+Discovered new possible move:
+W.B
+..w
+b..
+Stats:	f(x) = 11	g(x) = 11	h(x) = 0
+
+Discovered new possible move:
+Wb.
+B.w
+...
+Stats:	f(x) = 11	g(x) = 11	h(x) = 0
+
+ === Selected Route w/ Cost 10 ===
+.bB
+...
+wW.
+
+ === Selected Route w/ Cost 10 ===
+Wb.
+B..
+w..
+
+Discovered new possible move:
+Wb.
+...
+w.B
+Stats:	f(x) = 11	g(x) = 11	h(x) = 0
+
+ === Selected Route w/ Cost 10 ===
+bBw
+W..
+...
+
+Discovered new possible move:
+.Bw
+W.b
+...
+Stats:	f(x) = 11	g(x) = 11	h(x) = 0
+
+Discovered new possible move:
+b.w
+W..
+..B
+Stats:	f(x) = 11	g(x) = 11	h(x) = 0
+
+ === Selected Route w/ Cost 10 ===
+..w
+W..
+.bB
+
+ === Selected Route w/ Cost 10 ===
+..w
+W.b
+B..
+
+ === Selected Route w/ Cost 10 ===
+.wW
+B..
+..b
+
+ === Selected Route w/ Cost 10 ===
+W..
+B.w
+..b
+
+ === Selected Route w/ Cost 10 ===
+.b.
+..W
+w.B
+
+ === Selected Route w/ Cost 10 ===
+.Bw
+..b
+..W
+
+Discovered new possible move:
+.B.
+..b
+.wW
+Stats:	f(x) = 11	g(x) = 11	h(x) = 0
+
+Discovered new possible move:
+.Bw
+...
+b.W
+Stats:	f(x) = 11	g(x) = 11	h(x) = 0
+
+ === Selected Route w/ Cost 10 ===
+bB.
+...
+.wW
+
+ === Selected Route w/ Cost 10 ===
+W..
+..w
+bB.
+
+ === Selected Route w/ Cost 10 ===
+w.B
+b..
+.W.
+
+ === Selected Route w/ Cost 10 ===
+b.W
+..B
+.w.
+
+ === Selected Route w/ Cost 10 ===
+...
+..b
+BwW
+
+ === Selected Route w/ Cost 10 ===
+.B.
+w..
+b.W
+
+ === Selected Route w/ Cost 11 ===
+.bB
+..w
+.W.
+
+Discovered new possible move:
+..B
+..w
+bW.
+Stats:	f(x) = 12	g(x) = 12	h(x) = 0
+
+Discovered new possible move:
+.b.
+B.w
+.W.
+Stats:	f(x) = 12	g(x) = 12	h(x) = 0
+
+Discovered new possible move:
+wbB
+...
+.W.
+Stats:	f(x) = 12	g(x) = 12	h(x) = 0
+
+ === Selected Route w/ Cost 11 ===
+w..
+..b
+B.W
+
+Discovered new possible move:
+wB.
+..b
+..W
+Stats:	f(x) = 12	g(x) = 12	h(x) = 0
+
+Discovered new possible move:
+w..
+W.b
+B..
+Stats:	f(x) = 12	g(x) = 12	h(x) = 0
+
+ === Selected Route w/ Cost 11 ===
+...
+W.b
+Bw.
+
+Discovered new possible move:
+..W
+..b
+Bw.
+Stats:	f(x) = 12	g(x) = 12	h(x) = 0
+
+Discovered new possible move:
+.B.
+W.b
+.w.
+Stats:	f(x) = 12	g(x) = 12	h(x) = 0
+
+ === Selected Route w/ Cost 11 ===
+Wb.
+...
+w.B
+
+Discovered new possible move:
+.b.
+...
+wWB
+Stats:	f(x) = 12	g(x) = 12	h(x) = 0
+
+Discovered new possible move:
+Wb.
+..w
+..B
+Stats:	f(x) = 12	g(x) = 12	h(x) = 0
+
+ === Selected Route w/ Cost 11 ===
+.b.
+B..
+wW.
+
+Discovered new possible move:
+.bW
+B..
+w..
+Stats:	f(x) = 12	g(x) = 12	h(x) = 0
+
+ === Selected Route w/ Cost 11 ===
+W.B
+..w
+b..
+
+Discovered new possible move:
+W..
+B.w
+b..
+Stats:	f(x) = 12	g(x) = 12	h(x) = 0
+
+ === Selected Route w/ Cost 11 ===
+b.W
+...
+Bw.
+
+Discovered new possible move:
+bBW
+...
+.w.
+Stats:	f(x) = 12	g(x) = 12	h(x) = 0
+
+ === Selected Route w/ Cost 11 ===
+b.w
+W..
+..B
+
+Discovered new possible move:
+..w
+W.b
+..B
+Stats:	f(x) = 12	g(x) = 12	h(x) = 0
+
+Discovered new possible move:
+b..
+W..
+.wB
+Stats:	f(x) = 12	g(x) = 12	h(x) = 0
+
+ === Selected Route w/ Cost 11 ===
+.Bw
+W.b
+...
+
+Discovered new possible move:
+.Bw
+W..
+b..
+Stats:	f(x) = 12	g(x) = 12	h(x) = 0
+
+ === Selected Route w/ Cost 11 ===
+bB.
+W..
+.w.
+
+ === Selected Route w/ Cost 11 ===
+.Bw
+...
+b.W
+
+Discovered new possible move:
+.B.
+...
+bwW
+Stats:	f(x) = 12	g(x) = 12	h(x) = 0
+
+ === Selected Route w/ Cost 11 ===
+..W
+B..
+w.b
+
+Discovered new possible move:
+..W
+B.w
+..b
+Stats:	f(x) = 12	g(x) = 12	h(x) = 0
+
+ === Selected Route w/ Cost 11 ===
+w.B
+...
+.Wb
+
+Discovered new possible move:
+w..
+B..
+.Wb
+Stats:	f(x) = 12	g(x) = 12	h(x) = 0
+
+ === Selected Route w/ Cost 11 ===
+Wb.
+B.w
+...
+
+ === Selected Route w/ Cost 11 ===
+.B.
+..b
+.wW
+
+ === Selected Route w/ Cost 11 ===
+...
+B.w
+.Wb
+
+ === Selected Route w/ Cost 12 ===
+..W
+..b
+Bw.
+
+Discovered new possible move:
+.BW
+..b
+.w.
+Stats:	f(x) = 13	g(x) = 13	h(x) = 0
+
+Discovered new possible move:
+w.W
+..b
+B..
+Stats:	f(x) = 13	g(x) = 13	h(x) = 0
+
+ === Selected Route w/ Cost 12 ===
+wB.
+..b
+..W
+
+Discovered new possible move:
+wB.
+...
+b.W
+Stats:	f(x) = 13	g(x) = 13	h(x) = 0
+
+Discovered new possible move:
+wB.
+W.b
+...
+Stats:	f(x) = 13	g(x) = 13	h(x) = 0
+
+ === Selected Route w/ Cost 12 ===
+bBW
+...
+.w.
+
+Discovered new possible move:
+b.W
+...
+.wB
+Stats:	f(x) = 13	g(x) = 13	h(x) = 0
+
+ === Selected Route w/ Cost 12 ===
+.B.
+W.b
+.w.
+
+Discovered new possible move:
+...
+W.b
+.wB
+Stats:	f(x) = 13	g(x) = 13	h(x) = 0
+
+Discovered new possible move:
+.B.
+W..
+bw.
+Stats:	f(x) = 13	g(x) = 13	h(x) = 0
+
+ === Selected Route w/ Cost 12 ===
+wbB
+...
+.W.
+
+Discovered new possible move:
+w.B
+...
+bW.
+Stats:	f(x) = 13	g(x) = 13	h(x) = 0
+
+Discovered new possible move:
+wb.
+B..
+.W.
+Stats:	f(x) = 13	g(x) = 13	h(x) = 0
+
+ === Selected Route w/ Cost 12 ===
+..B
+..w
+bW.
+
+Discovered new possible move:
+...
+B.w
+bW.
+Stats:	f(x) = 13	g(x) = 13	h(x) = 0
+
+ === Selected Route w/ Cost 12 ===
+.b.
+B.w
+.W.
+
+Discovered new possible move:
+.b.
+..w
+.WB
+Stats:	f(x) = 13	g(x) = 13	h(x) = 0
+
+Discovered new possible move:
+.bW
+B.w
+...
+Stats:	f(x) = 13	g(x) = 13	h(x) = 0
+
+ === Selected Route w/ Cost 12 ===
+w..
+W.b
+B..
+
+ === Selected Route w/ Cost 12 ===
+W..
+B.w
+b..
+
+Discovered new possible move:
+W..
+..w
+b.B
+Stats:	f(x) = 13	g(x) = 13	h(x) = 0
+
+ === Selected Route w/ Cost 12 ===
+Wb.
+..w
+..B
+
+ === Selected Route w/ Cost 12 ===
+.bW
+B..
+w..
+
+Discovered new possible move:
+.bW
+...
+w.B
+Stats:	f(x) = 13	g(x) = 13	h(x) = 0
+
+ === Selected Route w/ Cost 12 ===
+.b.
+...
+wWB
+
+ === Selected Route w/ Cost 12 ===
+..w
+W.b
+..B
+
+Discovered new possible move:
+..w
+W..
+b.B
+Stats:	f(x) = 13	g(x) = 13	h(x) = 0
+
+ === Selected Route w/ Cost 12 ===
+b..
+W..
+.wB
+
+ === Selected Route w/ Cost 12 ===
+.Bw
+W..
+b..
+
+ === Selected Route w/ Cost 12 ===
+w..
+B..
+.Wb
+
+Discovered new possible move:
+w.W
+B..
+..b
+Stats:	f(x) = 13	g(x) = 13	h(x) = 0
+
+ === Selected Route w/ Cost 12 ===
+.B.
+...
+bwW
+
+ === Selected Route w/ Cost 12 ===
+..W
+B.w
+..b
+
+ === Selected Route w/ Cost 13 ===
+wB.
+W.b
+...
+
+Discovered new possible move:
+w..
+W.b
+..B
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+Discovered new possible move:
+wBW
+..b
+...
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+Discovered new possible move:
+wB.
+W..
+b..
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+ === Selected Route w/ Cost 13 ===
+w.W
+..b
+B..
+
+Discovered new possible move:
+w..
+..b
+BW.
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+ === Selected Route w/ Cost 13 ===
+W..
+..w
+b.B
+
+Discovered new possible move:
+...
+..w
+bWB
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+Discovered new possible move:
+WB.
+..w
+b..
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+ === Selected Route w/ Cost 13 ===
+wb.
+B..
+.W.
+
+Discovered new possible move:
+w..
+B..
+bW.
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+Discovered new possible move:
+wb.
+...
+.WB
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+Discovered new possible move:
+wbW
+B..
+...
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+ === Selected Route w/ Cost 13 ===
+b.W
+...
+.wB
+
+Discovered new possible move:
+..W
+..b
+.wB
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+Discovered new possible move:
+b.W
+B..
+.w.
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+ === Selected Route w/ Cost 13 ===
+.B.
+W..
+bw.
+
+Discovered new possible move:
+...
+W..
+bwB
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+Discovered new possible move:
+.BW
+...
+bw.
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+ === Selected Route w/ Cost 13 ===
+.b.
+..w
+.WB
+
+Discovered new possible move:
+.bW
+..w
+..B
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+ === Selected Route w/ Cost 13 ===
+...
+B.w
+bW.
+
+Discovered new possible move:
+..W
+B.w
+b..
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+ === Selected Route w/ Cost 13 ===
+.bW
+B.w
+...
+
+ === Selected Route w/ Cost 13 ===
+w.W
+B..
+..b
+
+Discovered new possible move:
+..W
+B..
+.wb
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+ === Selected Route w/ Cost 13 ===
+...
+W.b
+.wB
+
+ === Selected Route w/ Cost 13 ===
+w.B
+...
+bW.
+
+Discovered new possible move:
+w.B
+..b
+.W.
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+ === Selected Route w/ Cost 13 ===
+.bW
+...
+w.B
+
+Discovered new possible move:
+.b.
+W..
+w.B
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+ === Selected Route w/ Cost 13 ===
+.BW
+..b
+.w.
+
+ === Selected Route w/ Cost 13 ===
+..w
+W..
+b.B
+
+Discovered new possible move:
+.bw
+W..
+..B
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+ === Selected Route w/ Cost 13 ===
+wB.
+...
+b.W
+
+Discovered new possible move:
+.B.
+..w
+b.W
+Stats:	f(x) = 14	g(x) = 14	h(x) = 0
+
+ === Selected Route w/ Cost 14 ===
+.bw
+W..
+..B
+
+Discovered new possible move:
+.b.
+W..
+.wB
+Stats:	f(x) = 15	g(x) = 15	h(x) = 0
+
+ === Selected Route w/ Cost 14 ===
+.B.
+..w
+b.W
+
+Discovered new possible move:
+.B.
+W.w
+b..
+Stats:	f(x) = 15	g(x) = 15	h(x) = 0
+
+ === Selected Route w/ Cost 14 ===
+.bW
+..w
+..B
+
+Discovered new possible move:
+..W
+..w
+b.B
+Stats:	f(x) = 15	g(x) = 15	h(x) = 0
+
+Discovered new possible move:
+.b.
+W.w
+..B
+Stats:	f(x) = 15	g(x) = 15	h(x) = 0
+
+Discovered new possible move:
+wbW
+...
+..B
+Stats:	f(x) = 15	g(x) = 15	h(x) = 0
+
+ === Selected Route w/ Cost 14 ===
+WB.
+..w
+b..
+
+Discovered new possible move:
+.B.
+..w
+bW.
+Stats:	f(x) = 15	g(x) = 15	h(x) = 0
+
+ === Selected Route w/ Cost 14 ===
+wB.
+W..
+b..
+
+Discovered new possible move:
+w..
+W..
+b.B
+Stats:	f(x) = 15	g(x) = 15	h(x) = 0
+
+Discovered new possible move:
+wBW
+...
+b..
+Stats:	f(x) = 15	g(x) = 15	h(x) = 0
+
+ === Selected Route w/ Cost 14 ===
+w..
+W.b
+..B
+
+Discovered new possible move:
+w.W
+..b
+..B
+Stats:	f(x) = 15	g(x) = 15	h(x) = 0
+
+ === Selected Route w/ Cost 14 ===
+wBW
+..b
+...
+
+Discovered new possible move:
+wB.
+..b
+.W.
+Stats:	f(x) = 15	g(x) = 15	h(x) = 0
+
+ === Selected Route w/ Cost 14 ===
+w..
+..b
+BW.
+
+ === Selected Route w/ Cost 14 ===
+...
+..w
+bWB
+
+Discovered new possible move:
+w..
+...
+bWB
+Stats:	f(x) = 15	g(x) = 15	h(x) = 0
+
+ === Selected Route w/ Cost 14 ===
+w..
+B..
+bW.
+
+Discovered new possible move:
+w..
+B.b
+.W.
+Stats:	f(x) = 15	g(x) = 15	h(x) = 0
+
+Discovered new possible move:
+w.W
+B..
+b..
+Stats:	f(x) = 15	g(x) = 15	h(x) = 0
+
+ === Selected Route w/ Cost 14 ===
+.BW
+...
+bw.
+
+Discovered new possible move:
+..W
+...
+bwB
+Stats:	f(x) = 15	g(x) = 15	h(x) = 0
+
+ === Selected Route w/ Cost 14 ===
+wbW
+B..
+...
+
+Discovered new possible move:
+.bW
+B..
+.w.
+Stats:	f(x) = 15	g(x) = 15	h(x) = 0
+
+ === Selected Route w/ Cost 14 ===
+b.W
+B..
+.w.
+
+Discovered new possible move:
+..W
+B.b
+.w.
+Stats:	f(x) = 15	g(x) = 15	h(x) = 0
+
+ === Selected Route w/ Cost 14 ===
+wb.
+...
+.WB
+
+ === Selected Route w/ Cost 14 ===
+..W
+B..
+.wb
+
+ === Selected Route w/ Cost 14 ===
+..W
+B.w
+b..
+
+ === Selected Route w/ Cost 14 ===
+...
+W..
+bwB
+
+ === Selected Route w/ Cost 14 ===
+.b.
+W..
+w.B
+
+ === Selected Route w/ Cost 14 ===
+..W
+..b
+.wB
+
+ === Selected Route w/ Cost 14 ===
+w.B
+..b
+.W.
+
+ === Selected Route w/ Cost 15 ===
+.B.
+W.w
+b..
+
+Discovered new possible move:
+...
+W.w
+b.B
+Stats:	f(x) = 16	g(x) = 16	h(x) = 0
+
+Discovered new possible move:
+.BW
+..w
+b..
+Stats:	f(x) = 16	g(x) = 16	h(x) = 0
+
+ === Selected Route w/ Cost 15 ===
+.b.
+W..
+.wB
+
+Discovered new possible move:
+.bW
+...
+.wB
+Stats:	f(x) = 16	g(x) = 16	h(x) = 0
+
+Discovered new possible move:
+wb.
+W..
+..B
+Stats:	f(x) = 16	g(x) = 16	h(x) = 0
+
+ === Selected Route w/ Cost 15 ===
+..W
+...
+bwB
+
+Discovered new possible move:
+w.W
+...
+b.B
+Stats:	f(x) = 16	g(x) = 16	h(x) = 0
+
+Discovered new possible move:
+..W
+B..
+bw.
+Stats:	f(x) = 16	g(x) = 16	h(x) = 0
+
+ === Selected Route w/ Cost 15 ===
+wB.
+..b
+.W.
+
+Discovered new possible move:
+w..
+..b
+.WB
+Stats:	f(x) = 16	g(x) = 16	h(x) = 0
+
+Discovered new possible move:
+wB.
+...
+bW.
+Stats:	f(x) = 16	g(x) = 16	h(x) = 0
+
+ === Selected Route w/ Cost 15 ===
+wbW
+...
+..B
+
+ === Selected Route w/ Cost 15 ===
+w.W
+..b
+..B
+
+Discovered new possible move:
+w.W
+B.b
+...
+Stats:	f(x) = 16	g(x) = 16	h(x) = 0
+
+ === Selected Route w/ Cost 15 ===
+w.W
+B..
+b..
+
+ === Selected Route w/ Cost 15 ===
+w..
+W..
+b.B
+
+ === Selected Route w/ Cost 15 ===
+w..
+...
+bWB
+
+ === Selected Route w/ Cost 15 ===
+.B.
+..w
+bW.
+
+ === Selected Route w/ Cost 15 ===
+w..
+B.b
+.W.
+
+ === Selected Route w/ Cost 15 ===
+..W
+..w
+b.B
+
+ === Selected Route w/ Cost 15 ===
+.b.
+W.w
+..B
+
+ === Selected Route w/ Cost 15 ===
+.bW
+B..
+.w.
+
+ === Selected Route w/ Cost 15 ===
+..W
+B.b
+.w.
+
+ === Selected Route w/ Cost 15 ===
+wBW
+...
+b..
+
+ === Selected Route w/ Cost 16 ===
+wB.
+...
+bW.
+
+ === Selected Route w/ Cost 16 ===
+wb.
+W..
+..B
+
+ === Selected Route w/ Cost 16 ===
+.BW
+..w
+b..
+
+ === Selected Route w/ Cost 16 ===
+.bW
+...
+.wB
+
+ === Selected Route w/ Cost 16 ===
+...
+W.w
+b.B
+
+ === Selected Route w/ Cost 16 ===
+w.W
+B.b
+...
+
+ === Selected Route w/ Cost 16 ===
+..W
+B..
+bw.
+
+ === Selected Route w/ Cost 16 ===
+w..
+..b
+.WB
+
+ === Selected Route w/ Cost 16 ===
+w.W
+...
+b.B
+
+
+
+========================================
+Final game route (16 steps):
+B.b
+...
+W.w
+
+B.b
+w..
+W..
+
+B..
+w..
+Wb.
+
+B.w
+...
+Wb.
+
+BWw
+...
+.b.
+
+B.w
+...
+.bW
+
+..w
+..B
+.bW
+
+b.w
+..B
+..W
+
+b.w
+W.B
+...
+
+b.w
+W..
+B..
+
+b..
+W..
+Bw.
+
+...
+W.b
+Bw.
+
+.B.
+W.b
+.w.
+
+.B.
+W..
+bw.
+
+.BW
+...
+bw.
+
+..W
+...
+bwB
+
+w.W
+...
+b.B
+
+
+==*=*=*=*=*=*=*=*=*=*=*==
+Nice! You won!!!
+	Tree Expansions with B&B: 280
+	Time taken: 0.001095 seconds
+
+
+Type, Time (microseconds), Expansions
+A-Star, 471.000000, 76
+Branch and Bound, 1095.000000, 280

@@ -1,0 +1,2001 @@
+Type, Time (microseconds), Expansions
+A-Star, 117.000000, 76
+Branch and Bound, 579.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 577.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 577.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 557.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 578.000000, 280
+A-Star, 119.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 580.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 577.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 600.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 578.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 142.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 106.000000, 76
+Branch and Bound, 583.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 105.000000, 76
+Branch and Bound, 546.000000, 280
+A-Star, 121.000000, 76
+Branch and Bound, 554.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 593.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 577.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 121.000000, 76
+Branch and Bound, 586.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 577.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 623.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 554.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 578.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 579.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 554.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 673.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 581.000000, 280
+A-Star, 117.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 610.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 107.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 552.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 578.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 577.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 163.000000, 76
+Branch and Bound, 610.000000, 280
+A-Star, 107.000000, 76
+Branch and Bound, 555.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 578.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 583.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 594.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 578.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 585.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 605.000000, 280
+A-Star, 118.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 555.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 146.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 628.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 586.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 593.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 740.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 119.000000, 76
+Branch and Bound, 582.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 584.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 599.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 578.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 117.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 577.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 545.000000, 280
+A-Star, 122.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 587.000000, 280
+A-Star, 121.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 591.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 117.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 579.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 578.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 117.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 589.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 615.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 557.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 578.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 579.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 598.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 579.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 125.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 595.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 849.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 642.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 751.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 639.000000, 280
+A-Star, 120.000000, 76
+Branch and Bound, 588.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 158.000000, 76
+Branch and Bound, 725.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 584.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 117.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 580.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 592.000000, 280
+A-Star, 118.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 593.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 122.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 581.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 552.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 552.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 584.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 588.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 552.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 580.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 582.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 544.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 550.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 554.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 587.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 117.000000, 76
+Branch and Bound, 555.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 139.000000, 76
+Branch and Bound, 555.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 552.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 550.000000, 280
+A-Star, 156.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 590.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 147.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 578.000000, 280
+A-Star, 128.000000, 76
+Branch and Bound, 580.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 580.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 581.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 557.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 581.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 611.000000, 280
+A-Star, 127.000000, 76
+Branch and Bound, 661.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 671.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 553.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 579.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 725.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 147.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 608.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 119.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 581.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 580.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 611.000000, 280
+A-Star, 118.000000, 76
+Branch and Bound, 584.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 119.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 581.000000, 280
+A-Star, 117.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 117.000000, 76
+Branch and Bound, 557.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 618.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 580.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 133.000000, 76
+Branch and Bound, 609.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 119.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 587.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 579.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 592.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 612.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 547.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 120.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 134.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 580.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 117.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 552.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 104.000000, 76
+Branch and Bound, 555.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 122.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 118.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 648.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 553.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 584.000000, 280
+A-Star, 123.000000, 76
+Branch and Bound, 552.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 580.000000, 280
+A-Star, 185.000000, 76
+Branch and Bound, 600.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 578.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 594.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 582.000000, 280
+A-Star, 117.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 582.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 584.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 579.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 605.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 578.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 146.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 580.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 647.000000, 280
+A-Star, 156.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 598.000000, 280
+A-Star, 121.000000, 76
+Branch and Bound, 555.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 581.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 598.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 597.000000, 280
+A-Star, 170.000000, 76
+Branch and Bound, 1053.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 548.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 589.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 729.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 557.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 580.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 117.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 579.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 698.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 126.000000, 76
+Branch and Bound, 577.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 588.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 643.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 119.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 601.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 547.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 619.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 551.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 127.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 577.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 599.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 579.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 631.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 598.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 121.000000, 76
+Branch and Bound, 555.000000, 280
+A-Star, 121.000000, 76
+Branch and Bound, 592.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 120.000000, 76
+Branch and Bound, 556.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 688.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 594.000000, 280
+A-Star, 107.000000, 76
+Branch and Bound, 538.000000, 280
+A-Star, 155.000000, 76
+Branch and Bound, 556.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 106.000000, 76
+Branch and Bound, 549.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 629.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 581.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 590.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 585.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 595.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 582.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 140.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 588.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 582.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 118.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 129.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 610.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 690.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 107.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 118.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 596.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 586.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 119.000000, 76
+Branch and Bound, 551.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 150.000000, 76
+Branch and Bound, 598.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 582.000000, 280
+A-Star, 118.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 119.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 599.000000, 280
+A-Star, 118.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 578.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 556.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 122.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 554.000000, 280
+A-Star, 118.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 546.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 579.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 656.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 107.000000, 76
+Branch and Bound, 555.000000, 280
+A-Star, 107.000000, 76
+Branch and Bound, 556.000000, 280
+A-Star, 185.000000, 76
+Branch and Bound, 554.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 653.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 577.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 557.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 612.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 107.000000, 76
+Branch and Bound, 541.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 549.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 545.000000, 280
+A-Star, 148.000000, 76
+Branch and Bound, 556.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 128.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 687.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 557.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 147.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 119.000000, 76
+Branch and Bound, 586.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 123.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 601.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 117.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 118.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 118.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 607.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 557.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 583.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 589.000000, 280
+A-Star, 122.000000, 76
+Branch and Bound, 580.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 599.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 555.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 554.000000, 280
+A-Star, 172.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 545.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 545.000000, 280
+A-Star, 119.000000, 76
+Branch and Bound, 550.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 611.000000, 280
+A-Star, 119.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 586.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 556.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 553.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 624.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 577.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 579.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 557.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 577.000000, 280
+A-Star, 131.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 541.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 582.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 107.000000, 76
+Branch and Bound, 605.000000, 280
+A-Star, 118.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 131.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 548.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 118.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 554.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 538.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 554.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 107.000000, 76
+Branch and Bound, 549.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 555.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 118.000000, 76
+Branch and Bound, 551.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 557.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 583.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 630.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 577.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 552.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 609.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 557.000000, 280
+A-Star, 107.000000, 76
+Branch and Bound, 553.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 107.000000, 76
+Branch and Bound, 580.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 552.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 590.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 548.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 578.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 583.000000, 280
+A-Star, 122.000000, 76
+Branch and Bound, 580.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 584.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 586.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 584.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 117.000000, 76
+Branch and Bound, 582.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 582.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 542.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 584.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 121.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 555.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 593.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 580.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 659.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 548.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 599.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 556.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 153.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 576.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 107.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 118.000000, 76
+Branch and Bound, 549.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 550.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 125.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 105.000000, 76
+Branch and Bound, 555.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 106.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 106.000000, 76
+Branch and Bound, 554.000000, 280
+A-Star, 107.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 551.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 549.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 106.000000, 76
+Branch and Bound, 549.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 556.000000, 280
+A-Star, 152.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 117.000000, 76
+Branch and Bound, 555.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 590.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 594.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 834.000000, 280
+A-Star, 119.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 555.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 121.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 644.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 581.000000, 280
+A-Star, 119.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 126.000000, 76
+Branch and Bound, 554.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 120.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 659.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 578.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 122.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 584.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 557.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 586.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 584.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 565.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 594.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 606.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 619.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 583.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 116.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 107.000000, 76
+Branch and Bound, 603.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 176.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 124.000000, 76
+Branch and Bound, 579.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 587.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 123.000000, 76
+Branch and Bound, 553.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 117.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 575.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 628.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 571.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 577.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 569.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 254.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 589.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 113.000000, 76
+Branch and Bound, 580.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 602.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 574.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 554.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 577.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 573.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 568.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 545.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 578.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 201.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 558.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 560.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 663.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 570.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 580.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 572.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 562.000000, 280
+A-Star, 109.000000, 76
+Branch and Bound, 567.000000, 280
+A-Star, 111.000000, 76
+Branch and Bound, 549.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 115.000000, 76
+Branch and Bound, 563.000000, 280
+A-Star, 106.000000, 76
+Branch and Bound, 550.000000, 280
+A-Star, 107.000000, 76
+Branch and Bound, 559.000000, 280
+A-Star, 110.000000, 76
+Branch and Bound, 561.000000, 280
+A-Star, 114.000000, 76
+Branch and Bound, 564.000000, 280
+A-Star, 112.000000, 76
+Branch and Bound, 566.000000, 280
+A-Star, 108.000000, 76
+Branch and Bound, 550.000000, 280
+A-Star, 107.000000, 76
+Branch and Bound, 546.000000, 280
